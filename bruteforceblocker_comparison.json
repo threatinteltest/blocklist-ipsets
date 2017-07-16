@@ -81,7 +81,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 34894,
-		"common": 413
+		"common": 416
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -111,7 +111,7 @@
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
 		"ips": 18235,
-		"common": 407
+		"common": 410
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -128,14 +128,14 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16404,
+		"ips": 16400,
 		"common": 2
 	},
 	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 50883,
-		"common": 33
+		"common": 35
 	},
 	{
 		"name": "cleantalk_1d",
@@ -219,13 +219,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 21976,
-		"common": 547
+		"common": 550
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 20060,
-		"common": 393
+		"ips": 20050,
+		"common": 395
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -243,13 +243,13 @@
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 442003,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 312199,
-		"common": 51
+		"common": 50
 	},
 	{
 		"name": "dronebl_autorooting_worms",
@@ -303,7 +303,7 @@
 		"name": "et_compromised",
 		"category": "attacks",
 		"ips": 1164,
-		"common": 1051
+		"common": 1045
 	},
 	{
 		"name": "et_dshield",
@@ -320,7 +320,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36372,
+		"ips": 36374,
 		"common": 2
 	},
 	{
@@ -338,19 +338,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43218,
-		"common": 415
+		"ips": 43214,
+		"common": 418
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 161638,
-		"common": 1143
+		"ips": 161635,
+		"common": 1142
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9248514,
+		"ips": 9248510,
 		"common": 246
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1293,
+		"ips": 1292,
 		"common": 10
 	},
 	{
@@ -393,13 +393,13 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656148643,
-		"common": 81
+		"common": 80
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 45283,
-		"common": 34
+		"common": 36
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -411,7 +411,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227917135,
-		"common": 50
+		"common": 51
 	},
 	{
 		"name": "iblocklist_hijacked",
@@ -429,7 +429,7 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "iblocklist_isp_embarq",
@@ -465,7 +465,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 138757446,
-		"common": 68
+		"common": 67
 	},
 	{
 		"name": "iblocklist_org_joost",
@@ -543,7 +543,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3203,
-		"common": 45
+		"common": 44
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -573,13 +573,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 101
-	},
-	{
-		"name": "sorbs_new_spam",
-		"category": "spam",
-		"ips": 35223,
-		"common": 1
+		"common": 102
 	},
 	{
 		"name": "sorbs_noserver",
@@ -591,7 +585,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "sorbs_web",
@@ -657,7 +651,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 11748,
-		"common": 387
+		"common": 385
 	},
 	{
 		"name": "talosintel_ipfilter",
@@ -692,7 +686,7 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 297,
+		"ips": 300,
 		"common": 1
 	},
 	{
@@ -704,20 +698,14 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 240,
+		"ips": 239,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 446,
-		"common": 13
-	},
-	{
-		"name": "urandomusto_telnet",
-		"category": "attacks",
-		"ips": 449,
-		"common": 1
+		"ips": 450,
+		"common": 9
 	},
 	{
 		"name": "urandomusto_unspecified",
