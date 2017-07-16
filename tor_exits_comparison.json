@@ -98,32 +98,32 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36170,
+		"ips": 36071,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8975,
+		"ips": 8976,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15298,
+		"ips": 15268,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 19236,
+		"ips": 19166,
 		"common": 7
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12497,
-		"common": 273
+		"ips": 12519,
+		"common": 272
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -362,7 +362,7 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 12032,
+		"ips": 11776,
 		"common": 8
 	},
 	{
@@ -404,7 +404,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 39992,
+		"ips": 39987,
 		"common": 916
 	},
 	{
@@ -416,25 +416,25 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44303,
+		"ips": 44207,
 		"common": 99
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 161435,
+		"ips": 161430,
 		"common": 882
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9245732,
+		"ips": 9245751,
 		"common": 557
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26998,
+		"ips": 26993,
 		"common": 148
 	},
 	{
@@ -934,6 +934,12 @@
 		"category": "reputation",
 		"ips": 31022,
 		"common": 61
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 298,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
