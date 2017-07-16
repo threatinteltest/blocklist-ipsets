@@ -80,8 +80,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35880,
+		"ips": 35822,
 		"common": 399
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 8972,
+		"common": 3
 	},
 	{
 		"name": "blocklist_de_ftp",
@@ -92,13 +98,19 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2456,
+		"ips": 2445,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 15231,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 223,
+		"ips": 220,
 		"common": 2
 	},
 	{
@@ -206,7 +218,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 368,
+		"ips": 367,
 		"common": 1
 	},
 	{
@@ -224,7 +236,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 427,
+		"ips": 426,
 		"common": 2
 	},
 	{
@@ -242,7 +254,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 312200,
+		"ips": 312199,
 		"common": 54
 	},
 	{
@@ -284,7 +296,7 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 892,
+		"ips": 894,
 		"common": 1
 	},
 	{
@@ -332,13 +344,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43680,
-		"common": 401
+		"ips": 43459,
+		"common": 402
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 161681,
+		"ips": 161685,
 		"common": 1147
 	},
 	{
@@ -614,7 +626,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5235,
+		"ips": 5324,
 		"common": 1
 	},
 	{
@@ -710,7 +722,7 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 226,
+		"ips": 231,
 		"common": 1
 	},
 	{
