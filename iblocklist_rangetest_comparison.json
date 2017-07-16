@@ -128,8 +128,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 646,
-		"common": 7
+		"ips": 1345,
+		"common": 9
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -212,43 +212,49 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36045,
-		"common": 60
+		"ips": 35967,
+		"common": 61
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8975,
+		"ips": 8974,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 383,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2406,
+		"ips": 2399,
 		"common": 15
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15239,
+		"ips": 15219,
 		"common": 39
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 224,
+		"ips": 227,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 19180,
+		"ips": 19117,
 		"common": 20
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12614,
+		"ips": 12609,
 		"common": 260
 	},
 	{
@@ -698,19 +704,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44199,
-		"common": 68
+		"ips": 44097,
+		"common": 69
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 161677,
+		"ips": 161678,
 		"common": 991
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9245783,
+		"ips": 9245781,
 		"common": 3391
 	},
 	{
@@ -722,7 +728,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 32846,
+		"ips": 32847,
 		"common": 155
 	},
 	{
@@ -1070,7 +1076,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 21878,
+		"ips": 21937,
 		"common": 30
 	},
 	{
@@ -1364,7 +1370,7 @@
 	{
 		"name": "sslbl_aggressive",
 		"category": "malware",
-		"ips": 2864,
+		"ips": 2865,
 		"common": 24
 	},
 	{
@@ -1376,7 +1382,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1364,
+		"ips": 1365,
 		"common": 1
 	},
 	{
