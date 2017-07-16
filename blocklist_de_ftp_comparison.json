@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35007,
+		"ips": 34939,
 		"common": 354
 	},
 	{
@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13096,
+		"ips": 13022,
 		"common": 19
 	},
 	{
@@ -82,6 +82,12 @@
 		"category": "attacks",
 		"ips": 30542,
 		"common": 4
+	},
+	{
+		"name": "bruteforceblocker",
+		"category": "attacks",
+		"ips": 1143,
+		"common": 1
 	},
 	{
 		"name": "ciarmy",
@@ -111,13 +117,13 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 124333,
-		"common": 114
+		"common": 113
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 63750,
-		"common": 109
+		"common": 108
 	},
 	{
 		"name": "cleantalk_new",
@@ -135,7 +141,7 @@
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 22037,
-		"common": 69
+		"common": 68
 	},
 	{
 		"name": "cleantalk_new_7d",
@@ -159,13 +165,13 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 162575,
-		"common": 120
+		"common": 119
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 81434,
-		"common": 111
+		"common": 110
 	},
 	{
 		"name": "cybercrime",
@@ -183,13 +189,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 21972,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 20050,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "dronebl_anonymizers",
@@ -246,6 +252,12 @@
 		"common": 4
 	},
 	{
+		"name": "et_compromised",
+		"category": "attacks",
+		"ips": 1164,
+		"common": 1
+	},
+	{
 		"name": "et_dshield",
 		"category": "attacks",
 		"ips": 5120,
@@ -273,7 +285,7 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 269103,
-		"common": 117
+		"common": 116
 	},
 	{
 		"name": "firehol_level1",
@@ -284,19 +296,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43327,
+		"ips": 43261,
 		"common": 354
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 161636,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9248197,
+		"ips": 9248128,
 		"common": 29
 	},
 	{
@@ -452,8 +464,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3241,
-		"common": 36
+		"ips": 3203,
+		"common": 34
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -567,12 +579,12 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 31022,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
 		"ips": 290,
-		"common": 43
+		"common": 42
 	}
 ]
