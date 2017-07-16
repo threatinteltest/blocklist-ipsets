@@ -110,13 +110,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34693,
-		"common": 323
+		"ips": 34782,
+		"common": 324
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8865,
+		"ips": 8866,
 		"common": 28
 	},
 	{
@@ -134,25 +134,25 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2451,
-		"common": 3
+		"ips": 2461,
+		"common": 4
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15061,
-		"common": 7
+		"ips": 15081,
+		"common": 8
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 218,
+		"ips": 219,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 18144,
+		"ips": 18210,
 		"common": 284
 	},
 	{
@@ -164,7 +164,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13339,
+		"ips": 13316,
 		"common": 51
 	},
 	{
@@ -423,13 +423,13 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 47
+		"common": 48
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 7424,
-		"common": 62
+		"ips": 7680,
+		"common": 65
 	},
 	{
 		"name": "dshield_30d",
@@ -440,8 +440,8 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 12288,
-		"common": 92
+		"ips": 12544,
+		"common": 95
 	},
 	{
 		"name": "dshield_top_1000",
@@ -519,13 +519,13 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652669866,
-		"common": 123
+		"common": 124
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43013,
-		"common": 418
+		"ips": 43357,
+		"common": 421
 	},
 	{
 		"name": "firehol_level3",
@@ -536,7 +536,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9248465,
+		"ips": 9248442,
 		"common": 303
 	},
 	{
@@ -802,6 +802,12 @@
 		"category": "reputation",
 		"ips": 138757446,
 		"common": 746
+	},
+	{
+		"name": "iblocklist_onion_router",
+		"category": "anonymizers",
+		"ips": 6692,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_org_blizzard",
