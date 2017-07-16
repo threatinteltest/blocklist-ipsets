@@ -248,7 +248,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12823,
+		"ips": 12827,
 		"common": 73
 	},
 	{
@@ -380,74 +380,74 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2406,
-		"common": 69
+		"ips": 2417,
+		"common": 58
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 28851,
+		"ips": 28914,
 		"common": 948
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 124372,
-		"common": 3165
+		"ips": 124399,
+		"common": 3163
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 63719,
-		"common": 2399
+		"ips": 63722,
+		"common": 2398
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 437,
+		"ips": 441,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1140,
+		"ips": 1144,
 		"common": 7
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 22160,
+		"ips": 22172,
 		"common": 101
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4829,
+		"ips": 4838,
 		"common": 16
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 65
+		"common": 54
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 33539,
-		"common": 1083
+		"ips": 33619,
+		"common": 1085
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 162570,
-		"common": 5683
+		"ips": 162604,
+		"common": 5685
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 81454,
-		"common": 3351
+		"ips": 81465,
+		"common": 3354
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -752,19 +752,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36332,
-		"common": 1166
+		"ips": 36409,
+		"common": 1168
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 269863,
-		"common": 7070
+		"ips": 269896,
+		"common": 7067
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40006,
+		"ips": 40009,
 		"common": 27
 	},
 	{
@@ -782,26 +782,26 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9245967,
+		"ips": 9245970,
 		"common": 5687224
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26908,
+		"ips": 26911,
 		"common": 17
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 32847,
-		"common": 617
+		"ips": 32845,
+		"common": 615
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740098,
-		"common": 20634
+		"common": 20632
 	},
 	{
 		"name": "fullbogons",
@@ -849,7 +849,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26267,
-		"common": 390
+		"common": 388
 	},
 	{
 		"name": "hphosts_exp",
@@ -933,7 +933,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656148643,
-		"common": 590183699
+		"common": 590183698
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -957,7 +957,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227917135,
-		"common": 504407
+		"common": 504406
 	},
 	{
 		"name": "iblocklist_exclusions",
@@ -1053,7 +1053,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762621529,
-		"common": 3634719
+		"common": 3634718
 	},
 	{
 		"name": "iblocklist_level2",
@@ -1353,13 +1353,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 17246
+		"common": 17245
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 5017,
-		"common": 311
+		"common": 309
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -1368,22 +1368,16 @@
 		"common": 254
 	},
 	{
-		"name": "ransomware_locky_ps",
-		"category": "malware",
-		"ips": 3,
-		"common": 2
-	},
-	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 152,
-		"common": 5
+		"ips": 150,
+		"common": 3
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 359,
-		"common": 359
+		"ips": 357,
+		"common": 357
 	},
 	{
 		"name": "ransomware_torrentlocker_c2",
