@@ -26,8 +26,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36086,
-		"common": 185
+		"ips": 35961,
+		"common": 186
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 19071,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_strongips",
+		"category": "attacks",
+		"ips": 196,
+		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -52,6 +64,12 @@
 		"category": "malware",
 		"ips": 29210,
 		"common": 11
+	},
+	{
+		"name": "darklist_de",
+		"category": "attacks",
+		"ips": 15211,
+		"common": 1
 	},
 	{
 		"name": "dataplane_sipinvitation",
@@ -110,8 +128,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43348,
-		"common": 185
+		"ips": 43221,
+		"common": 186
 	},
 	{
 		"name": "firehol_level3",
@@ -123,7 +141,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9245754,
-		"common": 26
+		"common": 27
 	},
 	{
 		"name": "firehol_webclient",
@@ -147,7 +165,7 @@
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 21081,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -298,6 +316,12 @@
 		"category": "reputation",
 		"ips": 31022,
 		"common": 8
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 443,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
