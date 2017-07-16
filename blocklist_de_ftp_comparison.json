@@ -21,7 +21,7 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 4102,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "bi_any_2_7d",
@@ -36,10 +36,16 @@
 		"common": 8
 	},
 	{
+		"name": "bi_ssh_2_30d",
+		"category": "attacks",
+		"ips": 2551,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36071,
-		"common": 390
+		"ips": 36090,
+		"common": 393
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -99,7 +105,7 @@
 		"name": "cleantalk",
 		"category": "abuse",
 		"ips": 2408,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "cleantalk_1d",
@@ -147,7 +153,7 @@
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "cleantalk_updated_1d",
@@ -273,7 +279,7 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 269797,
-		"common": 142
+		"common": 143
 	},
 	{
 		"name": "firehol_level1",
@@ -284,8 +290,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44207,
-		"common": 390
+		"ips": 44227,
+		"common": 393
 	},
 	{
 		"name": "firehol_level3",
@@ -369,7 +375,7 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "iblocklist_isp_verizon",
@@ -387,7 +393,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346612651,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "iblocklist_level3",
@@ -434,7 +440,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 22073,
+		"ips": 22008,
 		"common": 3
 	},
 	{
@@ -477,7 +483,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 25
+		"common": 26
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -513,13 +519,13 @@
 		"name": "stopforumspam",
 		"category": "abuse",
 		"ips": 156762,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 232374,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -531,13 +537,13 @@
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 331326,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 158075,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "stopforumspam_toxic",
