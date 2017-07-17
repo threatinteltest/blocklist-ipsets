@@ -14,7 +14,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 378,
+		"ips": 377,
 		"common": 2
 	},
 	{
@@ -416,13 +416,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 21752,
+		"ips": 21717,
 		"common": 379
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 19902,
+		"ips": 19876,
 		"common": 313
 	},
 	{
@@ -722,8 +722,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 39933,
-		"common": 1906
+		"ips": 39915,
+		"common": 1905
 	},
 	{
 		"name": "firehol_level1",
@@ -752,8 +752,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26893,
-		"common": 1896
+		"ips": 26875,
+		"common": 1895
 	},
 	{
 		"name": "firehol_webclient",
@@ -1497,24 +1497,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 21
+		"common": 22
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3174,
+		"ips": 3173,
 		"common": 972
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8686,
-		"common": 1697
+		"ips": 8671,
+		"common": 1696
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5007,
+		"ips": 5006,
 		"common": 1374
 	},
 	{
@@ -1587,24 +1587,24 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 381,
+		"ips": 383,
 		"common": 7
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5438,
+		"ips": 5435,
 		"common": 28
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1378,
+		"ips": 1380,
 		"common": 16
 	},
 	{
@@ -1712,7 +1712,7 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 325,
+		"ips": 309,
 		"common": 3
 	},
 	{
@@ -1726,6 +1726,12 @@
 		"category": "spam",
 		"ips": 140,
 		"common": 13
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 444,
+		"common": 1
 	},
 	{
 		"name": "urlvir",
