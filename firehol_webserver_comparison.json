@@ -266,32 +266,32 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6506,
+		"ips": 6508,
 		"common": 1581
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7841,
+		"ips": 7847,
 		"common": 1630
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24074,
+		"ips": 24075,
 		"common": 2191
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12019,
+		"ips": 12021,
 		"common": 1825
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31366,
-		"common": 5000
+		"ips": 31476,
+		"common": 5004
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -338,7 +338,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 14352,
+		"ips": 14429,
 		"common": 133
 	},
 	{
@@ -350,8 +350,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13159,
-		"common": 1455
+		"ips": 13172,
+		"common": 1451
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -950,14 +950,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652669865,
-		"common": 19878
+		"ips": 652669872,
+		"common": 19884
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40102,
-		"common": 7723
+		"ips": 40212,
+		"common": 7727
 	},
 	{
 		"name": "firehol_level3",
@@ -968,7 +968,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9255585,
+		"ips": 9255600,
 		"common": 54284
 	},
 	{
@@ -2060,7 +2060,7 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 309,
+		"ips": 287,
 		"common": 32
 	},
 	{
@@ -2084,7 +2084,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 240,
+		"ips": 244,
 		"common": 24
 	},
 	{
@@ -2098,6 +2098,12 @@
 		"category": "spam",
 		"ips": 1,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 252,
+		"common": 5
 	},
 	{
 		"name": "urandomusto_telnet",

@@ -134,32 +134,32 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6506,
+		"ips": 6508,
 		"common": 4
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7841,
+		"ips": 7847,
 		"common": 8
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24074,
+		"ips": 24075,
 		"common": 35
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12019,
+		"ips": 12021,
 		"common": 17
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31366,
-		"common": 1587
+		"ips": 31476,
+		"common": 1591
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -206,7 +206,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 14352,
+		"ips": 14429,
 		"common": 19
 	},
 	{
@@ -218,8 +218,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13159,
-		"common": 2275
+		"ips": 13172,
+		"common": 2272
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -758,14 +758,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652669865,
+		"ips": 652669872,
 		"common": 3186
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40102,
-		"common": 1711
+		"ips": 40212,
+		"common": 1715
 	},
 	{
 		"name": "firehol_level3",
@@ -776,8 +776,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9255585,
-		"common": 14345
+		"ips": 9255600,
+		"common": 14344
 	},
 	{
 		"name": "firehol_proxies",
@@ -1784,8 +1784,8 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 309,
-		"common": 129
+		"ips": 287,
+		"common": 121
 	},
 	{
 		"name": "urandomusto_http",
@@ -1808,7 +1808,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 240,
+		"ips": 244,
 		"common": 3
 	},
 	{
@@ -1818,10 +1818,16 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 252,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
 		"ips": 444,
-		"common": 3
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
