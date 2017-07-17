@@ -50,14 +50,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31774,
-		"common": 293
+		"ips": 31793,
+		"common": 294
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 8844,
-		"common": 293
+		"common": 294
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13052,
+		"ips": 13008,
 		"common": 98
 	},
 	{
@@ -153,7 +153,7 @@
 		"name": "cybercrime",
 		"category": "malware",
 		"ips": 29391,
-		"common": 47
+		"common": 48
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -218,8 +218,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40941,
-		"common": 293
+		"ips": 40958,
+		"common": 294
 	},
 	{
 		"name": "firehol_level3",
@@ -230,26 +230,26 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9244784,
+		"ips": 9244739,
 		"common": 116
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 33025,
-		"common": 47
+		"common": 48
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740476,
-		"common": 54
+		"common": 56
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095947,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "gpf_comics",
@@ -261,7 +261,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1726,
-		"common": 30
+		"common": 31
 	},
 	{
 		"name": "haley_ssh",
@@ -321,7 +321,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762689991,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "iblocklist_level2",
@@ -333,13 +333,19 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139014502,
-		"common": 21
+		"common": 22
 	},
 	{
 		"name": "iblocklist_pedophiles",
 		"category": "reputation",
 		"ips": 845657,
 		"common": 2
+	},
+	{
+		"name": "iblocklist_rangetest",
+		"category": "reputation",
+		"ips": 4320327,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -399,7 +405,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 52
+		"common": 54
 	},
 	{
 		"name": "sblam",
