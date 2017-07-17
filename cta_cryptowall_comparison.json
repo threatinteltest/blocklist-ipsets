@@ -20,7 +20,7 @@
 	{
 		"name": "bambenek_ramnit",
 		"category": "malware",
-		"ips": 39,
+		"ips": 38,
 		"common": 1
 	},
 	{
@@ -34,6 +34,12 @@
 		"category": "malware",
 		"ips": 53,
 		"common": 9
+	},
+	{
+		"name": "bambenek_tinba",
+		"category": "malware",
+		"ips": 3,
+		"common": 1
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -50,19 +56,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31336,
-		"common": 7
-	},
-	{
-		"name": "blocklist_de_apache",
-		"category": "attacks",
-		"ips": 8814,
-		"common": 1
+		"ips": 31337,
+		"common": 6
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15526,
+		"ips": 15504,
 		"common": 6
 	},
 	{
@@ -206,14 +206,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652669866,
-		"common": 17
+		"ips": 652669867,
+		"common": 18
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40122,
-		"common": 9
+		"ips": 40124,
+		"common": 8
 	},
 	{
 		"name": "firehol_level3",
@@ -538,5 +538,17 @@
 		"category": "organizations",
 		"ips": 12426,
 		"common": 17
+	},
+	{
+		"name": "zeus",
+		"category": "malware",
+		"ips": 137,
+		"common": 1
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 125,
+		"common": 1
 	}
 ]
