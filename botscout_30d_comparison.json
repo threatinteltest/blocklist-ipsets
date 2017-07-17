@@ -170,7 +170,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13239,
+		"ips": 13308,
 		"common": 550
 	},
 	{
@@ -194,8 +194,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6788,
-		"common": 547
+		"ips": 6797,
+		"common": 550
 	},
 	{
 		"name": "bogons",
@@ -404,8 +404,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 444900,
-		"common": 3566
+		"ips": 444899,
+		"common": 3565
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -542,7 +542,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40030,
+		"ips": 39980,
 		"common": 2437
 	},
 	{
@@ -566,7 +566,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9244970,
+		"ips": 9245034,
 		"common": 16308
 	},
 	{
@@ -932,8 +932,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 18885,
-		"common": 146
+		"ips": 19013,
+		"common": 149
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -950,8 +950,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3139,
-		"common": 9
+		"ips": 3188,
+		"common": 8
 	},
 	{
 		"name": "packetmail_mail",
@@ -1436,7 +1436,13 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 137,
+		"ips": 188,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 160,
 		"common": 1
 	},
 	{
