@@ -20,38 +20,44 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652669860,
-		"common": 49
+		"ips": 652669861,
+		"common": 50
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40558,
+		"ips": 40553,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 160099,
-		"common": 49
+		"common": 50
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 32972,
-		"common": 49
+		"common": 50
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740355,
+		"common": 2
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 26282,
 		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
-		"ips": 656148643,
-		"common": 5
+		"ips": 656008099,
+		"common": 6
 	},
 	{
 		"name": "iblocklist_isp_qwest",
@@ -69,6 +75,12 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 138757446,
+		"common": 1
+	},
+	{
+		"name": "jigsaw_malware",
+		"category": "malware",
+		"ips": 59614,
 		"common": 1
 	},
 	{
@@ -111,7 +123,7 @@
 		"name": "sslbl_aggressive",
 		"category": "malware",
 		"ips": 2866,
-		"common": 49
+		"common": 50
 	},
 	{
 		"name": "urandomusto_mailer",
