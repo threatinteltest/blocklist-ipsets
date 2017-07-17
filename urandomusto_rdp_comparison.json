@@ -21,7 +21,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 8349,
-		"common": 52
+		"common": 53
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -51,13 +51,13 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 31457,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 8814,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "blocklist_de_imap",
@@ -87,7 +87,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 49548,
-		"common": 31
+		"common": 30
 	},
 	{
 		"name": "cleantalk_30d",
@@ -174,6 +174,12 @@
 		"common": 4
 	},
 	{
+		"name": "dragon_vncprobe",
+		"category": "attacks",
+		"ips": 60,
+		"common": 1
+	},
+	{
 		"name": "dronebl_autorooting_worms",
 		"category": "attacks",
 		"ips": 1046,
@@ -195,19 +201,19 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 29440,
-		"common": 29
+		"common": 28
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 12800,
-		"common": 22
+		"common": 21
 	},
 	{
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24716595,
-		"common": 16
+		"common": 15
 	},
 	{
 		"name": "et_compromised",
@@ -219,7 +225,7 @@
 		"name": "et_dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 15
+		"common": 14
 	},
 	{
 		"name": "et_spamhaus",
@@ -243,7 +249,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 40439,
-		"common": 28
+		"common": 27
 	},
 	{
 		"name": "firehol_level3",
@@ -254,7 +260,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9255477,
+		"ips": 9255486,
 		"common": 6
 	},
 	{
@@ -273,7 +279,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1839,
-		"common": 16
+		"common": 15
 	},
 	{
 		"name": "haley_ssh",
@@ -285,13 +291,13 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656008099,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 50116,
-		"common": 31
+		"common": 30
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -495,18 +501,18 @@
 		"name": "trustedsec_atif",
 		"category": "reputation",
 		"ips": 1681,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29017,
-		"common": 68
+		"common": 66
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 366,
+		"ips": 372,
 		"common": 1
 	},
 	{
@@ -531,12 +537,6 @@
 		"name": "urandomusto_ssh",
 		"category": "attacks",
 		"ips": 449,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_telnet",
-		"category": "attacks",
-		"ips": 450,
 		"common": 1
 	},
 	{
