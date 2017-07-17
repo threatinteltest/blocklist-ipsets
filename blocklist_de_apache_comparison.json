@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32352,
-		"common": 71
+		"common": 69
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -15,7 +15,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 8490,
-		"common": 28
+		"common": 27
 	},
 	{
 		"name": "bi_any_2_1d",
@@ -86,25 +86,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31476,
-		"common": 8813
+		"ips": 31340,
+		"common": 8807
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 273,
-		"common": 273
+		"ips": 270,
+		"common": 270
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15543,
+		"ips": 15516,
 		"common": 8244
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 14429,
+		"ips": 14328,
 		"common": 1
 	},
 	{
@@ -116,7 +116,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13190,
+		"ips": 13176,
 		"common": 104
 	},
 	{
@@ -134,13 +134,13 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16371,
+		"ips": 16362,
 		"common": 12
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4960,
+		"ips": 4943,
 		"common": 6
 	},
 	{
@@ -153,7 +153,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 49825,
-		"common": 134
+		"common": 132
 	},
 	{
 		"name": "cleantalk",
@@ -261,7 +261,7 @@
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 367,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "dataplane_sipregistration",
@@ -303,7 +303,7 @@
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 312192,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dronebl_irc_drones",
@@ -416,7 +416,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36412,
+		"ips": 36408,
 		"common": 58
 	},
 	{
@@ -428,7 +428,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 39954,
+		"ips": 39953,
 		"common": 2
 	},
 	{
@@ -440,19 +440,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40212,
-		"common": 8813
+		"ips": 40110,
+		"common": 8807
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 160198,
-		"common": 148
+		"ips": 160200,
+		"common": 146
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9255607,
+		"ips": 9255584,
 		"common": 146
 	},
 	{
@@ -488,8 +488,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1481,
-		"common": 76
+		"ips": 1522,
+		"common": 77
 	},
 	{
 		"name": "haley_ssh",
@@ -525,7 +525,7 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 50116,
-		"common": 129
+		"common": 127
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -579,7 +579,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139014502,
-		"common": 2113
+		"common": 2112
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -705,7 +705,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 39
+		"common": 38
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -783,7 +783,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 11679,
-		"common": 31
+		"common": 29
 	},
 	{
 		"name": "talosintel_ipfilter",
@@ -831,7 +831,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29017,
-		"common": 142
+		"common": 140
 	},
 	{
 		"name": "urandomusto_dns",
@@ -848,8 +848,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 238,
-		"common": 10
+		"ips": 246,
+		"common": 8
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 143,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -866,7 +872,7 @@
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 146,
+		"ips": 147,
 		"common": 1
 	},
 	{
@@ -878,14 +884,14 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 250,
-		"common": 23
+		"ips": 246,
+		"common": 24
 	},
 	{
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 29756,
-		"common": 20
+		"common": 21
 	},
 	{
 		"name": "xforce_bccs",
