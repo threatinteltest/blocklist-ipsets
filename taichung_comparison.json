@@ -164,7 +164,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11937,
+		"ips": 11931,
 		"common": 44
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 608,
+		"ips": 607,
 		"common": 27
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 472,
+		"ips": 469,
 		"common": 14
 	},
 	{
@@ -440,7 +440,7 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 896,
+		"ips": 897,
 		"common": 5
 	},
 	{
@@ -524,13 +524,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 160202,
+		"ips": 160203,
 		"common": 2117
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9229381,
+		"ips": 9229376,
 		"common": 279
 	},
 	{
@@ -804,12 +804,6 @@
 		"common": 724
 	},
 	{
-		"name": "iblocklist_onion_router",
-		"category": "anonymizers",
-		"ips": 6692,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_org_blizzard",
 		"category": "organizations",
 		"ips": 16795139,
@@ -902,8 +896,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 34945,
-		"common": 10
+		"ips": 34835,
+		"common": 9
 	},
 	{
 		"name": "nt_malware_irc",
@@ -1106,7 +1100,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1339,
+		"ips": 1340,
 		"common": 1
 	},
 	{
@@ -1196,7 +1190,7 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 60,
+		"ips": 61,
 		"common": 7
 	},
 	{
@@ -1208,13 +1202,19 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 176,
-		"common": 13
+		"ips": 196,
+		"common": 21
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 135,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 138,
+		"ips": 137,
 		"common": 17
 	},
 	{
@@ -1244,8 +1244,8 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 162,
-		"common": 8
+		"ips": 161,
+		"common": 9
 	},
 	{
 		"name": "urandomusto_vnc",
