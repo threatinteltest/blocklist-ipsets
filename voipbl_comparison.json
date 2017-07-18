@@ -230,7 +230,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12250,
+		"ips": 12238,
 		"common": 166
 	},
 	{
@@ -662,13 +662,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 158839,
-		"common": 1194
+		"ips": 158849,
+		"common": 1195
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9222331,
+		"ips": 9222319,
 		"common": 771
 	},
 	{
@@ -686,8 +686,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34740399,
-		"common": 5362
+		"ips": 34740416,
+		"common": 5363
 	},
 	{
 		"name": "fullbogons",
@@ -1040,8 +1040,8 @@
 	{
 		"name": "myip",
 		"category": "abuse",
-		"ips": 4973,
-		"common": 22
+		"ips": 4983,
+		"common": 24
 	},
 	{
 		"name": "nixspam",
@@ -1082,14 +1082,14 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 179,
+		"ips": 164,
 		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2248,
-		"common": 37
+		"ips": 2267,
+		"common": 34
 	},
 	{
 		"name": "php_commenters",
@@ -1443,7 +1443,7 @@
 		"name": "urandomusto_ftp",
 		"category": "attacks",
 		"ips": 160,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "urandomusto_http",
@@ -1460,14 +1460,20 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 240,
-		"common": 7
+		"ips": 234,
+		"common": 6
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
 		"ips": 163,
 		"common": 8
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 433,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
