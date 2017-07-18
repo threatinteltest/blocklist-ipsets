@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11886,
+		"ips": 11858,
 		"common": 106
 	},
 	{
@@ -266,7 +266,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9229327,
+		"ips": 9229302,
 		"common": 503
 	},
 	{
@@ -428,8 +428,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35542,
-		"common": 29
+		"ips": 35389,
+		"common": 30
 	},
 	{
 		"name": "nullsecure",
@@ -690,9 +690,15 @@
 		"common": 491
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3389,
+		"ips": 3381,
 		"common": 17
 	},
 	{
@@ -753,25 +759,25 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 40
+		"common": 43
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
 		"ips": 399,
-		"common": 132
+		"common": 133
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5425,
-		"common": 385
+		"ips": 5426,
+		"common": 386
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1337,
-		"common": 276
+		"ips": 1338,
+		"common": 277
 	},
 	{
 		"name": "stopforumspam",
@@ -831,6 +837,12 @@
 		"name": "urandomusto_ftp",
 		"category": "attacks",
 		"ips": 160,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 136,
 		"common": 1
 	},
 	{
