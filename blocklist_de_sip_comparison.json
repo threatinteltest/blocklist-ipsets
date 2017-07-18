@@ -9,7 +9,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 8490,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "bi_any_2_1d",
@@ -38,20 +38,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 39971,
-		"common": 173
+		"ips": 40351,
+		"common": 169
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12447,
-		"common": 12
+		"ips": 12449,
+		"common": 10
 	},
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
 		"ips": 1119,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "ciarmy",
@@ -108,6 +108,12 @@
 		"common": 17
 	},
 	{
+		"name": "darklist_de",
+		"category": "attacks",
+		"ips": 9976,
+		"common": 1
+	},
+	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 373,
@@ -123,13 +129,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 21328,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 19543,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -153,7 +159,7 @@
 		"name": "et_compromised",
 		"category": "attacks",
 		"ips": 1132,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "firehol_abusers_1d",
@@ -170,20 +176,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 49130,
-		"common": 173
+		"ips": 49513,
+		"common": 169
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 157605,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9222457,
-		"common": 28
+		"ips": 9222461,
+		"common": 26
 	},
 	{
 		"name": "firehol_webclient",
@@ -240,12 +246,6 @@
 		"common": 1
 	},
 	{
-		"name": "iblocklist_isp_att",
-		"category": "organizations",
-		"ips": 55845128,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
@@ -280,12 +280,6 @@
 		"category": "reputation",
 		"ips": 139014502,
 		"common": 18
-	},
-	{
-		"name": "iblocklist_org_blizzard",
-		"category": "organizations",
-		"ips": 16795139,
-		"common": 1
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -339,7 +333,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 30
+		"common": 29
 	},
 	{
 		"name": "sorbs_noserver",
@@ -411,6 +405,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 29778,
-		"common": 47
+		"common": 46
 	}
 ]
