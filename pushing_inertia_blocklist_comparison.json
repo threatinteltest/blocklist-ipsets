@@ -122,8 +122,8 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 104,
-		"common": 20
+		"ips": 111,
+		"common": 22
 	},
 	{
 		"name": "bambenek_c2",
@@ -278,8 +278,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44801,
-		"common": 4770
+		"ips": 44831,
+		"common": 4765
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -290,7 +290,7 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 333,
+		"ips": 330,
 		"common": 51
 	},
 	{
@@ -302,32 +302,32 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 505,
+		"ips": 507,
 		"common": 19
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2614,
-		"common": 97
+		"ips": 2613,
+		"common": 95
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 28002,
-		"common": 4481
+		"ips": 28064,
+		"common": 4477
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 214,
+		"ips": 213,
 		"common": 32
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 15223,
-		"common": 125
+		"ips": 15201,
+		"common": 124
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -476,50 +476,50 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2708,
-		"common": 561
+		"ips": 2713,
+		"common": 608
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 31308,
-		"common": 7835
+		"ips": 31265,
+		"common": 7830
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 124862,
+		"ips": 124869,
 		"common": 23541
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 64482,
-		"common": 13869
+		"ips": 64514,
+		"common": 13873
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 768,
-		"common": 45
+		"ips": 766,
+		"common": 47
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1391,
-		"common": 94
+		"ips": 1389,
+		"common": 96
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 21935,
-		"common": 2031
+		"ips": 21922,
+		"common": 2032
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 5453,
-		"common": 476
+		"ips": 5457,
+		"common": 478
 	},
 	{
 		"name": "cleantalk_top20",
@@ -531,25 +531,25 @@
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 517
+		"common": 563
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 36515,
-		"common": 9102
+		"ips": 36427,
+		"common": 9081
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 163782,
-		"common": 30978
+		"ips": 163792,
+		"common": 30979
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 82592,
-		"common": 17734
+		"ips": 82647,
+		"common": 17740
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -908,19 +908,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38836,
-		"common": 9380
+		"ips": 38759,
+		"common": 9355
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 272848,
-		"common": 44915
+		"ips": 272853,
+		"common": 44917
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40068,
+		"ips": 40064,
 		"common": 4948
 	},
 	{
@@ -932,8 +932,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 55798,
-		"common": 7461
+		"ips": 55829,
+		"common": 7456
 	},
 	{
 		"name": "firehol_level3",
@@ -950,7 +950,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27052,
+		"ips": 27048,
 		"common": 2214
 	},
 	{
@@ -1692,27 +1692,21 @@
 		"common": 283
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 1
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3378,
+		"ips": 3360,
 		"common": 27
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8732,
+		"ips": 8727,
 		"common": 166
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5289,
+		"ips": 5290,
 		"common": 63
 	},
 	{
