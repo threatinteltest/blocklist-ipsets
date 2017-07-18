@@ -176,7 +176,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12350,
+		"ips": 12370,
 		"common": 1276
 	},
 	{
@@ -440,7 +440,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6687,
+		"ips": 6688,
 		"common": 11
 	},
 	{
@@ -458,8 +458,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 446663,
-		"common": 7881
+		"ips": 446717,
+		"common": 7882
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -728,7 +728,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40042,
+		"ips": 40133,
 		"common": 1907
 	},
 	{
@@ -752,7 +752,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9222392,
+		"ips": 9222409,
 		"common": 4231
 	},
 	{
@@ -764,7 +764,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 33098,
+		"ips": 33096,
 		"common": 442
 	},
 	{
@@ -1418,7 +1418,7 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 149,
+		"ips": 147,
 		"common": 3
 	},
 	{
@@ -1598,7 +1598,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1417,
+		"ips": 1416,
 		"common": 15
 	},
 	{
@@ -1710,10 +1710,16 @@
 		"common": 3
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 185,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 159,
-		"common": 3
+		"ips": 176,
+		"common": 7
 	},
 	{
 		"name": "urandomusto_ssh",
