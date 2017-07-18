@@ -15,7 +15,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 8616,
-		"common": 23
+		"common": 28
 	},
 	{
 		"name": "bi_any_2_1d",
@@ -45,7 +45,13 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 44831,
-		"common": 66
+		"common": 80
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 8799,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_ftp",
@@ -57,25 +63,25 @@
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
 		"ips": 15201,
-		"common": 65
+		"common": 78
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
 		"ips": 194,
-		"common": 13
+		"common": 16
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12104,
-		"common": 16
+		"ips": 12112,
+		"common": 20
 	},
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
 		"ips": 1127,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "ciarmy",
@@ -99,13 +105,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 21202,
-		"common": 77
+		"common": 85
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 19469,
-		"common": 60
+		"common": 63
 	},
 	{
 		"name": "dragon_http",
@@ -171,7 +177,7 @@
 		"name": "et_compromised",
 		"category": "attacks",
 		"ips": 1132,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "et_dshield",
@@ -195,19 +201,19 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 55829,
-		"common": 67
+		"common": 82
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 158866,
-		"common": 26
+		"common": 27
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9222201,
-		"common": 36
+		"ips": 9222208,
+		"common": 41
 	},
 	{
 		"name": "firehol_webserver",
@@ -225,25 +231,25 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1785,
-		"common": 4
+		"common": 6
 	},
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 21166,
-		"common": 28
+		"common": 32
 	},
 	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 655891363,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 50116,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -261,7 +267,7 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_isp_verizon",
@@ -270,16 +276,22 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762681081,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346541451,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139018551,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -309,7 +321,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3520,
-		"common": 18
+		"common": 24
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -327,7 +339,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 17
+		"common": 19
 	},
 	{
 		"name": "sorbs_noserver",
@@ -354,16 +366,10 @@
 		"common": 1
 	},
 	{
-		"name": "stopforumspam_365d",
-		"category": "abuse",
-		"ips": 333730,
-		"common": 1
-	},
-	{
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 11679,
-		"common": 6
+		"common": 10
 	},
 	{
 		"name": "threatcrowd",
@@ -375,24 +381,24 @@
 		"name": "trustedsec_atif",
 		"category": "reputation",
 		"ips": 1681,
-		"common": 7
+		"common": 10
 	},
 	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29017,
-		"common": 53
+		"common": 60
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 234,
-		"common": 2
+		"ips": 232,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 433,
-		"common": 2
+		"ips": 432,
+		"common": 3
 	}
 ]
