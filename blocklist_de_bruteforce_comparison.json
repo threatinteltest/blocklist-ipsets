@@ -44,14 +44,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 46013,
-		"common": 275
+		"ips": 46463,
+		"common": 276
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8823,
-		"common": 275
+		"ips": 8825,
+		"common": 276
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11974,
+		"ips": 12017,
 		"common": 81
 	},
 	{
@@ -206,8 +206,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 56024,
-		"common": 275
+		"ips": 56471,
+		"common": 276
 	},
 	{
 		"name": "firehol_level3",
@@ -218,7 +218,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9229426,
+		"ips": 9229472,
 		"common": 100
 	},
 	{
@@ -231,7 +231,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740524,
-		"common": 61
+		"common": 62
 	},
 	{
 		"name": "gofferje_sip",
@@ -393,7 +393,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 60
+		"common": 61
 	},
 	{
 		"name": "sblam",
@@ -412,6 +412,12 @@
 		"category": "spam",
 		"ips": 375226662,
 		"common": 24
+	},
+	{
+		"name": "sorbs_noserver",
+		"category": "spam",
+		"ips": 22951270,
+		"common": 1
 	},
 	{
 		"name": "sorbs_recent_spam",
