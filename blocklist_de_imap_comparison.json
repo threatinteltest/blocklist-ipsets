@@ -242,7 +242,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 445435,
+		"ips": 445498,
 		"common": 25
 	},
 	{
@@ -302,7 +302,7 @@
 	{
 		"name": "et_compromised",
 		"category": "attacks",
-		"ips": 1164,
+		"ips": 1132,
 		"common": 3
 	},
 	{
@@ -320,19 +320,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38144,
-		"common": 17
+		"ips": 38160,
+		"common": 18
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 269635,
+		"ips": 269653,
 		"common": 84
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40069,
+		"ips": 40140,
 		"common": 4
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27092,
+		"ips": 27097,
 		"common": 4
 	},
 	{
@@ -630,9 +630,27 @@
 		"common": 1
 	},
 	{
+		"name": "php_harvesters",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_harvesters_1d",
+		"category": "spam",
+		"ips": 77,
+		"common": 1
+	},
+	{
 		"name": "php_harvesters_30d",
 		"category": "spam",
-		"ips": 544,
+		"ips": 562,
+		"common": 1
+	},
+	{
+		"name": "php_harvesters_7d",
+		"category": "spam",
+		"ips": 158,
 		"common": 1
 	},
 	{
@@ -698,7 +716,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3394,
+		"ips": 3402,
 		"common": 1
 	},
 	{
@@ -710,7 +728,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5211,
+		"ips": 5210,
 		"common": 1
 	},
 	{
@@ -854,8 +872,8 @@
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 158,
-		"common": 13
+		"ips": 156,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_rdp",
