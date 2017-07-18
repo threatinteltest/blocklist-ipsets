@@ -218,8 +218,8 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 1214,
-		"common": 95
+		"ips": 1209,
+		"common": 94
 	},
 	{
 		"name": "bitcoin_blockchain_info_1d",
@@ -242,25 +242,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6555,
-		"common": 429
+		"ips": 6564,
+		"common": 431
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 8049,
-		"common": 462
+		"ips": 8057,
+		"common": 463
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24227,
+		"ips": 24225,
 		"common": 753
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12159,
+		"ips": 12168,
 		"common": 532
 	},
 	{
@@ -1982,7 +1982,7 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 59,
+		"ips": 60,
 		"common": 6
 	},
 	{
@@ -1994,8 +1994,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 174,
+		"ips": 160,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 150,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -2012,7 +2018,7 @@
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 164,
+		"ips": 165,
 		"common": 24
 	},
 	{
@@ -2036,8 +2042,8 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 159,
-		"common": 11
+		"ips": 161,
+		"common": 12
 	},
 	{
 		"name": "urandomusto_vnc",
@@ -2076,22 +2082,28 @@
 		"common": 20
 	},
 	{
+		"name": "xroxy",
+		"category": "anonymizers",
+		"ips": 55,
+		"common": 1
+	},
+	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 137,
-		"common": 3
+		"ips": 136,
+		"common": 4
 	},
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 420,
+		"ips": 422,
 		"common": 27
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 259,
-		"common": 11
+		"ips": 261,
+		"common": 12
 	},
 	{
 		"name": "yoyo_adservers",
