@@ -14,7 +14,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 824,
+		"ips": 822,
 		"common": 2
 	},
 	{
@@ -36,9 +36,15 @@
 		"common": 2
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 43976,
+		"common": 168
+	},
+	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12398,
+		"ips": 12312,
 		"common": 10
 	},
 	{
@@ -116,14 +122,20 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 21311,
+		"ips": 21306,
 		"common": 2
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 19548,
+		"ips": 19544,
 		"common": 2
+	},
+	{
+		"name": "dragon_http",
+		"category": "attacks",
+		"ips": 59136,
+		"common": 1
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -152,7 +164,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38635,
+		"ips": 38729,
 		"common": 1
 	},
 	{
@@ -164,19 +176,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 18272,
-		"common": 2
+		"ips": 53442,
+		"common": 168
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 157641,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9222426,
+		"ips": 9222342,
 		"common": 25
 	},
 	{
@@ -195,7 +207,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095948,
-		"common": 30
+		"common": 31
 	},
 	{
 		"name": "greensnow",
@@ -255,7 +267,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346541451,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "iblocklist_level3",
@@ -321,7 +333,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "stopforumspam",
