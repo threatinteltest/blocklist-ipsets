@@ -20,8 +20,8 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 112,
-		"common": 112
+		"ips": 111,
+		"common": 110
 	},
 	{
 		"name": "bambenek_c2",
@@ -44,7 +44,7 @@
 	{
 		"name": "bambenek_necurs",
 		"category": "malware",
-		"ips": 10,
+		"ips": 11,
 		"common": 10
 	},
 	{
@@ -62,8 +62,8 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 111,
-		"common": 111
+		"ips": 115,
+		"common": 109
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -236,7 +236,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11934,
+		"ips": 11950,
 		"common": 74
 	},
 	{
@@ -314,7 +314,7 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 1123,
+		"ips": 1121,
 		"common": 4
 	},
 	{
@@ -740,7 +740,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40133,
+		"ips": 40132,
 		"common": 28
 	},
 	{
@@ -752,25 +752,25 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 157984,
+		"ips": 157981,
 		"common": 6377
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9221977,
+		"ips": 9221991,
 		"common": 5691074
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27090,
+		"ips": 27089,
 		"common": 17
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 33097,
+		"ips": 33098,
 		"common": 613
 	},
 	{
@@ -1334,7 +1334,7 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 148,
+		"ips": 149,
 		"common": 5
 	},
 	{
@@ -1610,8 +1610,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 212,
-		"common": 39
+		"ips": 245,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 128,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -1642,6 +1648,12 @@
 		"category": "attacks",
 		"ips": 370,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_unspecified",
+		"category": "attacks",
+		"ips": 149,
+		"common": 1
 	},
 	{
 		"name": "urlvir",
