@@ -66,15 +66,27 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 45218,
+		"common": 28
+	},
+	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
 		"ips": 2609,
 		"common": 1
 	},
 	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 28324,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 237,
+		"ips": 240,
 		"common": 14
 	},
 	{
@@ -218,7 +230,7 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 901,
+		"ips": 896,
 		"common": 2
 	},
 	{
@@ -266,13 +278,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 18712,
-		"common": 91
+		"ips": 55220,
+		"common": 116
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 160201,
+		"ips": 160198,
 		"common": 257
 	},
 	{
@@ -284,13 +296,13 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27061,
+		"ips": 27057,
 		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 33154,
+		"ips": 33153,
 		"common": 1
 	},
 	{
@@ -540,9 +552,9 @@
 		"common": 3
 	},
 	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 157,
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 150,
 		"common": 1
 	},
 	{
@@ -572,7 +584,7 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 161,
+		"ips": 163,
 		"common": 31
 	},
 	{

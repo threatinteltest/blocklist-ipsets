@@ -108,6 +108,12 @@
 		"common": 125
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 45218,
+		"common": 34
+	},
+	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
 		"ips": 525,
@@ -120,9 +126,15 @@
 		"common": 2
 	},
 	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 28324,
+		"common": 15
+	},
+	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 237,
+		"ips": 240,
 		"common": 1
 	},
 	{
@@ -554,13 +566,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 18712,
-		"common": 2
+		"ips": 55220,
+		"common": 35
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 160201,
+		"ips": 160198,
 		"common": 262
 	},
 	{
@@ -572,13 +584,13 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27061,
+		"ips": 27057,
 		"common": 28
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 33154,
+		"ips": 33153,
 		"common": 63
 	},
 	{
@@ -782,8 +794,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36260,
-		"common": 7
+		"ips": 36081,
+		"common": 6
 	},
 	{
 		"name": "nullsecure",
@@ -848,13 +860,13 @@
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 3860,
+		"ips": 3865,
 		"common": 1
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 3860,
+		"ips": 3865,
 		"common": 1
 	},
 	{
@@ -896,7 +908,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3395,
+		"ips": 3397,
 		"common": 8
 	},
 	{
@@ -908,7 +920,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5335,
+		"ips": 5336,
 		"common": 11
 	},
 	{
@@ -962,13 +974,13 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 410,
+		"ips": 408,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5429,
+		"ips": 5426,
 		"common": 1
 	},
 	{
@@ -1072,12 +1084,6 @@
 		"category": "reputation",
 		"ips": 29017,
 		"common": 54
-	},
-	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 157,
-		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",

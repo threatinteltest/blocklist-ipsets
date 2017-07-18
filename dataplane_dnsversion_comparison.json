@@ -54,10 +54,22 @@
 		"common": 28
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 45218,
+		"common": 2
+	},
+	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
 		"ips": 2609,
 		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 28324,
+		"common": 2
 	},
 	{
 		"name": "ciarmy",
@@ -174,6 +186,12 @@
 		"common": 61
 	},
 	{
+		"name": "dshield_top_1000",
+		"category": "attacks",
+		"ips": 896,
+		"common": 1
+	},
+	{
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24721210,
@@ -206,14 +224,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 18712,
-		"common": 66
+		"ips": 55220,
+		"common": 68
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 160201,
-		"common": 98
+		"ips": 160198,
+		"common": 99
 	},
 	{
 		"name": "firehol_level4",
@@ -402,9 +420,9 @@
 		"common": 4
 	},
 	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 157,
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 150,
 		"common": 1
 	},
 	{
@@ -434,7 +452,7 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 161,
+		"ips": 163,
 		"common": 7
 	},
 	{

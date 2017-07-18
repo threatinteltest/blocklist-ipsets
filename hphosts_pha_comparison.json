@@ -84,10 +84,22 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 45218,
+		"common": 5
+	},
+	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
 		"ips": 2609,
 		"common": 3
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 28324,
+		"common": 5
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -266,8 +278,8 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 901,
-		"common": 1
+		"ips": 896,
+		"common": 2
 	},
 	{
 		"name": "dyndns_ponmocup",
@@ -326,14 +338,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 18712,
-		"common": 5
+		"ips": 55220,
+		"common": 10
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 160201,
-		"common": 19
+		"ips": 160198,
+		"common": 20
 	},
 	{
 		"name": "firehol_level4",
@@ -344,7 +356,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 33154,
+		"ips": 33153,
 		"common": 9
 	},
 	{
@@ -584,7 +596,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36260,
+		"ips": 36081,
 		"common": 1
 	},
 	{

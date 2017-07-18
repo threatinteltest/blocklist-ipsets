@@ -216,9 +216,15 @@
 		"common": 28
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 45218,
+		"common": 65
+	},
+	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 336,
+		"ips": 338,
 		"common": 1
 	},
 	{
@@ -232,6 +238,12 @@
 		"category": "attacks",
 		"ips": 2609,
 		"common": 2
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 28324,
+		"common": 55
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -524,8 +536,8 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 901,
-		"common": 1
+		"ips": 896,
+		"common": 2
 	},
 	{
 		"name": "dyndns_ponmocup",
@@ -656,14 +668,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 18712,
-		"common": 41
+		"ips": 55220,
+		"common": 101
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 160201,
-		"common": 207
+		"ips": 160198,
+		"common": 208
 	},
 	{
 		"name": "firehol_level4",
@@ -674,14 +686,14 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27061,
+		"ips": 27057,
 		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 33154,
-		"common": 209
+		"ips": 33153,
+		"common": 208
 	},
 	{
 		"name": "firehol_webserver",
@@ -1076,7 +1088,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36260,
+		"ips": 36081,
 		"common": 11
 	},
 	{
@@ -1184,8 +1196,8 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 148,
-		"common": 124
+		"ips": 147,
+		"common": 123
 	},
 	{
 		"name": "ransomware_rw",
