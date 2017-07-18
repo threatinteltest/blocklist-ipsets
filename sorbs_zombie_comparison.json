@@ -1,5 +1,11 @@
 [
 	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 11785,
+		"common": 1
+	},
+	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 50834,
@@ -74,7 +80,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652644776,
+		"ips": 652644773,
 		"common": 723968
 	},
 	{
@@ -86,8 +92,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9229310,
-		"common": 396290
+		"ips": 9229227,
+		"common": 396291
 	},
 	{
 		"name": "firehol_proxies",
@@ -172,6 +178,12 @@
 		"category": "spam",
 		"ips": 1615970,
 		"common": 58
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 35723,
+		"common": 1
 	},
 	{
 		"name": "proxyspy_30d",
