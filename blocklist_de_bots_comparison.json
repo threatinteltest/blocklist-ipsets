@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15539,
+		"ips": 15590,
 		"common": 79
 	},
 	{
@@ -182,13 +182,19 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 20487,
+		"ips": 20484,
+		"common": 2
+	},
+	{
+		"name": "dataplane_sshpwauth",
+		"category": "attacks",
+		"ips": 18803,
 		"common": 1
 	},
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 449670,
+		"ips": 449697,
 		"common": 69
 	},
 	{
@@ -248,13 +254,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39095,
-		"common": 210
+		"ips": 39133,
+		"common": 212
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 272880,
+		"ips": 272878,
 		"common": 277
 	},
 	{
@@ -266,7 +272,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652644776,
+		"ips": 652644760,
 		"common": 27
 	},
 	{
@@ -284,7 +290,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9429436,
+		"ips": 9429483,
 		"common": 192
 	},
 	{
@@ -416,8 +422,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 21091,
-		"common": 3
+		"ips": 17957,
+		"common": 2
 	},
 	{
 		"name": "packetmail",
@@ -435,25 +441,25 @@
 		"name": "php_commenters",
 		"category": "spam",
 		"ips": 50,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "php_commenters_1d",
 		"category": "spam",
-		"ips": 50,
-		"common": 12
+		"ips": 95,
+		"common": 22
 	},
 	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 979,
-		"common": 63
+		"ips": 974,
+		"common": 66
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
-		"ips": 284,
-		"common": 32
+		"ips": 315,
+		"common": 39
 	},
 	{
 		"name": "php_dictionary",
@@ -776,8 +782,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4160,
-		"common": 121
+		"ips": 4265,
+		"common": 123
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -818,8 +824,8 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 252,
-		"common": 5
+		"ips": 255,
+		"common": 10
 	},
 	{
 		"name": "xroxy_1d",

@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15539,
+		"ips": 15590,
 		"common": 4
 	},
 	{
@@ -164,13 +164,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 20487,
+		"ips": 20484,
 		"common": 5
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 18812,
+		"ips": 18803,
 		"common": 5
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 449670,
+		"ips": 449697,
 		"common": 5
 	},
 	{
@@ -218,13 +218,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39095,
+		"ips": 39133,
 		"common": 79
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 272880,
+		"ips": 272878,
 		"common": 158
 	},
 	{
@@ -236,7 +236,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652644776,
+		"ips": 652644760,
 		"common": 1
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9429436,
+		"ips": 9429483,
 		"common": 17
 	},
 	{
@@ -398,7 +398,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 21091,
+		"ips": 17957,
 		"common": 9
 	},
 	{
@@ -420,16 +420,28 @@
 		"common": 1
 	},
 	{
+		"name": "php_commenters",
+		"category": "spam",
+		"ips": 50,
+		"common": 2
+	},
+	{
+		"name": "php_commenters_1d",
+		"category": "spam",
+		"ips": 95,
+		"common": 2
+	},
+	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 979,
-		"common": 11
+		"ips": 974,
+		"common": 12
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
-		"ips": 284,
-		"common": 5
+		"ips": 315,
+		"common": 6
 	},
 	{
 		"name": "php_dictionary_30d",
@@ -626,7 +638,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4160,
+		"ips": 4265,
 		"common": 9
 	},
 	{
@@ -696,9 +708,9 @@
 		"common": 1
 	},
 	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 252,
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 126,
 		"common": 1
 	},
 	{

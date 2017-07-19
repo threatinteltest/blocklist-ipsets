@@ -62,13 +62,13 @@
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 6416,
+		"ips": 6420,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24272,
+		"ips": 24275,
 		"common": 1
 	},
 	{
@@ -110,7 +110,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15539,
+		"ips": 15590,
 		"common": 6
 	},
 	{
@@ -236,13 +236,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 20487,
+		"ips": 20484,
 		"common": 11
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 18812,
+		"ips": 18803,
 		"common": 3
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 449670,
+		"ips": 449697,
 		"common": 559
 	},
 	{
@@ -338,13 +338,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39095,
+		"ips": 39133,
 		"common": 68
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 272880,
+		"ips": 272878,
 		"common": 174
 	},
 	{
@@ -356,7 +356,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652644776,
+		"ips": 652644760,
 		"common": 16
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9429436,
+		"ips": 9429483,
 		"common": 67
 	},
 	{
@@ -614,8 +614,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 21091,
-		"common": 113
+		"ips": 17957,
+		"common": 109
 	},
 	{
 		"name": "nullsecure",
@@ -650,13 +650,13 @@
 	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 979,
+		"ips": 974,
 		"common": 6
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
-		"ips": 284,
+		"ips": 315,
 		"common": 1
 	},
 	{
@@ -938,8 +938,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4160,
-		"common": 18
+		"ips": 4265,
+		"common": 20
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1029,6 +1029,18 @@
 		"name": "urandomusto_dns",
 		"category": "attacks",
 		"ips": 62,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 126,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ntp",
+		"category": "attacks",
+		"ips": 135,
 		"common": 1
 	},
 	{
