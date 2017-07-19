@@ -92,13 +92,13 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 1289,
+		"ips": 1287,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 1963,
+		"ips": 1961,
 		"common": 1
 	},
 	{
@@ -116,32 +116,32 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6592,
+		"ips": 6604,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 8111,
+		"ips": 8107,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24347,
+		"ips": 24341,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12278,
+		"ips": 12280,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 56749,
-		"common": 17
+		"ips": 56699,
+		"common": 18
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -152,14 +152,14 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2922,
+		"ips": 2930,
 		"common": 2
 	},
 	{
-		"name": "blocklist_de_mail",
+		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 39716,
-		"common": 3
+		"ips": 300,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
@@ -290,14 +290,14 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 597,
-		"common": 86
+		"ips": 595,
+		"common": 87
 	},
 	{
 		"name": "dataplane_dnsversion",
 		"category": "attacks",
-		"ips": 269,
-		"common": 54
+		"ips": 266,
+		"common": 55
 	},
 	{
 		"name": "dataplane_sipquery",
@@ -320,7 +320,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 470,
+		"ips": 471,
 		"common": 55
 	},
 	{
@@ -416,7 +416,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40237,
+		"ips": 40234,
 		"common": 5
 	},
 	{
@@ -428,7 +428,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 65156,
+		"ips": 65106,
 		"common": 7168
 	},
 	{
@@ -446,7 +446,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27212,
+		"ips": 27206,
 		"common": 2
 	},
 	{
@@ -722,13 +722,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8817,
+		"ips": 8819,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5468,
+		"ips": 5465,
 		"common": 1
 	},
 	{
@@ -812,19 +812,19 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 913,
+		"ips": 916,
 		"common": 4
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 954,
+		"ips": 953,
 		"common": 4
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 1972,
+		"ips": 1971,
 		"common": 4
 	},
 	{
@@ -860,13 +860,19 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 243,
-		"common": 2
+		"ips": 246,
+		"common": 4
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 139,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 124,
+		"ips": 125,
 		"common": 34
 	},
 	{
@@ -878,7 +884,7 @@
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 182,
+		"ips": 183,
 		"common": 11
 	},
 	{
@@ -890,8 +896,8 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 160,
-		"common": 7
+		"ips": 154,
+		"common": 6
 	},
 	{
 		"name": "urandomusto_vnc",
