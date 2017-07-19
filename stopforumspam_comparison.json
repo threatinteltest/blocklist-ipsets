@@ -176,7 +176,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15637,
+		"ips": 15632,
 		"common": 909
 	},
 	{
@@ -410,14 +410,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 20451,
-		"common": 303
+		"ips": 20427,
+		"common": 305
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 18769,
-		"common": 287
+		"ips": 18755,
+		"common": 289
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -440,7 +440,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 451795,
+		"ips": 451911,
 		"common": 13332
 	},
 	{
@@ -632,8 +632,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38772,
-		"common": 17156
+		"ips": 38810,
+		"common": 17169
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -650,7 +650,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652644756,
+		"ips": 652644753,
 		"common": 3210
 	},
 	{
@@ -662,13 +662,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 157966,
-		"common": 1987
+		"ips": 157068,
+		"common": 1977
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9429578,
+		"ips": 9429573,
 		"common": 12507
 	},
 	{
@@ -1082,7 +1082,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 12455,
+		"ips": 12393,
 		"common": 384
 	},
 	{
@@ -1520,8 +1520,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4413,
-		"common": 3958
+		"ips": 4522,
+		"common": 4015
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1563,7 +1563,7 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 10693,
-		"common": 701
+		"common": 699
 	},
 	{
 		"name": "threatcrowd",
@@ -1610,8 +1610,8 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 162,
-		"common": 2
+		"ips": 150,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
@@ -1634,7 +1634,13 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 225,
+		"ips": 223,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 248,
 		"common": 1
 	},
 	{

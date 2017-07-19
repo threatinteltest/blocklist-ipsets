@@ -146,7 +146,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15637,
+		"ips": 15632,
 		"common": 92
 	},
 	{
@@ -344,13 +344,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 20451,
+		"ips": 20427,
 		"common": 82
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 18769,
+		"ips": 18755,
 		"common": 78
 	},
 	{
@@ -386,7 +386,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 451795,
+		"ips": 451911,
 		"common": 1176
 	},
 	{
@@ -614,7 +614,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38772,
+		"ips": 38810,
 		"common": 46
 	},
 	{
@@ -632,7 +632,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652644756,
+		"ips": 652644753,
 		"common": 1
 	},
 	{
@@ -644,13 +644,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 157966,
+		"ips": 157068,
 		"common": 1070
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9429578,
+		"ips": 9429573,
 		"common": 640
 	},
 	{
@@ -884,8 +884,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 12455,
-		"common": 18
+		"ips": 12393,
+		"common": 19
 	},
 	{
 		"name": "nullsecure",
@@ -1178,8 +1178,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4413,
-		"common": 5
+		"ips": 4522,
+		"common": 6
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1268,14 +1268,20 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 225,
+		"ips": 223,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 248,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 447,
-		"common": 1
+		"ips": 450,
+		"common": 4
 	},
 	{
 		"name": "voipbl",

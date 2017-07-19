@@ -152,8 +152,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15637,
-		"common": 2015
+		"ips": 15632,
+		"common": 2014
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -398,13 +398,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 20451,
+		"ips": 20427,
 		"common": 319
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 18769,
+		"ips": 18755,
 		"common": 306
 	},
 	{
@@ -434,7 +434,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 451795,
+		"ips": 451911,
 		"common": 8541
 	},
 	{
@@ -668,8 +668,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38772,
-		"common": 1275
+		"ips": 38810,
+		"common": 1277
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -686,7 +686,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652644756,
+		"ips": 652644753,
 		"common": 472
 	},
 	{
@@ -698,14 +698,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 157966,
-		"common": 943
+		"ips": 157068,
+		"common": 805
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9429578,
-		"common": 8394
+		"ips": 9429573,
+		"common": 8393
 	},
 	{
 		"name": "firehol_proxies",
@@ -1112,8 +1112,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 12455,
-		"common": 4921
+		"ips": 12393,
+		"common": 4892
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1574,8 +1574,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4413,
-		"common": 188
+		"ips": 4522,
+		"common": 194
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1664,8 +1664,8 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 162,
-		"common": 17
+		"ips": 150,
+		"common": 8
 	},
 	{
 		"name": "urandomusto_http",
@@ -1682,8 +1682,14 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 244,
-		"common": 3
+		"ips": 248,
+		"common": 7
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 450,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_unspecified",
