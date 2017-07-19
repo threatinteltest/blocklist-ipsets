@@ -80,7 +80,7 @@
 	{
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
-		"ips": 1792,
+		"ips": 1771,
 		"common": 28
 	},
 	{
@@ -242,7 +242,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6678,
+		"ips": 6694,
 		"common": 8
 	},
 	{
@@ -326,7 +326,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40162,
+		"ips": 40269,
 		"common": 8
 	},
 	{
@@ -356,13 +356,13 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27199,
+		"ips": 27235,
 		"common": 2
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 33301,
+		"ips": 33303,
 		"common": 4
 	},
 	{
@@ -792,6 +792,12 @@
 		"common": 43
 	},
 	{
+		"name": "urandomusto_ftp",
+		"category": "attacks",
+		"ips": 163,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_http",
 		"category": "attacks",
 		"ips": 158,
@@ -806,7 +812,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 203,
+		"ips": 205,
 		"common": 4
 	},
 	{
@@ -814,6 +820,18 @@
 		"category": "attacks",
 		"ips": 193,
 		"common": 14
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 448,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 447,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
