@@ -104,7 +104,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 16052,
+		"ips": 16073,
 		"common": 36
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9432926,
+		"ips": 9432946,
 		"common": 247
 	},
 	{
@@ -698,8 +698,14 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 242,
-		"common": 7
+		"ips": 382,
+		"common": 8
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 451,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
