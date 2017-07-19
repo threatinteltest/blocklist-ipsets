@@ -122,13 +122,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 56698,
+		"ips": 56749,
 		"common": 29
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8874,
+		"ips": 8877,
 		"common": 17
 	},
 	{
@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 330,
+		"ips": 332,
 		"common": 11
 	},
 	{
@@ -152,19 +152,19 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 8244,
-		"common": 2
+		"ips": 39716,
+		"common": 9
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 298,
+		"ips": 299,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 15265,
+		"ips": 15248,
 		"common": 1
 	},
 	{
@@ -176,7 +176,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 17395,
+		"ips": 17352,
 		"common": 56
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40233,
+		"ips": 40237,
 		"common": 54
 	},
 	{
@@ -524,7 +524,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 65105,
+		"ips": 65158,
 		"common": 72
 	},
 	{
@@ -536,13 +536,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9431157,
+		"ips": 9431115,
 		"common": 7213
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27208,
+		"ips": 27212,
 		"common": 37
 	},
 	{
@@ -890,7 +890,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35831,
+		"ips": 36614,
 		"common": 2
 	},
 	{
@@ -1106,13 +1106,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8813,
+		"ips": 8817,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5469,
+		"ips": 5468,
 		"common": 2
 	},
 	{
@@ -1282,6 +1282,12 @@
 		"category": "attacks",
 		"ips": 243,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 221,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
