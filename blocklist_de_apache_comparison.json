@@ -446,7 +446,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40171,
+		"ips": 40170,
 		"common": 2
 	},
 	{
@@ -464,7 +464,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 157346,
+		"ips": 157351,
 		"common": 129
 	},
 	{
@@ -926,13 +926,19 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 281,
-		"common": 13
+		"ips": 225,
+		"common": 21
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 148,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 124,
+		"ips": 123,
 		"common": 2
 	},
 	{
@@ -950,8 +956,8 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 162,
-		"common": 10
+		"ips": 160,
+		"common": 9
 	},
 	{
 		"name": "urandomusto_vnc",

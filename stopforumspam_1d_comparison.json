@@ -482,7 +482,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40171,
+		"ips": 40170,
 		"common": 951
 	},
 	{
@@ -500,7 +500,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 157346,
+		"ips": 157351,
 		"common": 684
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27101,
+		"ips": 27100,
 		"common": 578
 	},
 	{
@@ -722,7 +722,7 @@
 	{
 		"name": "iblocklist_spider",
 		"category": "reputation",
-		"ips": 855170,
+		"ips": 859064,
 		"common": 1
 	},
 	{
@@ -938,25 +938,25 @@
 	{
 		"name": "proxyrss",
 		"category": "anonymizers",
-		"ips": 786,
-		"common": 142
+		"ips": 760,
+		"common": 129
 	},
 	{
 		"name": "proxyrss_1d",
 		"category": "anonymizers",
-		"ips": 1967,
-		"common": 201
+		"ips": 1981,
+		"common": 200
 	},
 	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
-		"ips": 3516,
+		"ips": 3520,
 		"common": 222
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
-		"ips": 3516,
+		"ips": 3520,
 		"common": 222
 	},
 	{
@@ -1083,24 +1083,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 2
+		"common": 15
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3452,
-		"common": 111
+		"ips": 3455,
+		"common": 113
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8734,
+		"ips": 8735,
 		"common": 136
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5392,
+		"ips": 5391,
 		"common": 134
 	},
 	{
@@ -1160,8 +1160,8 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 340,
-		"common": 84
+		"ips": 333,
+		"common": 80
 	},
 	{
 		"name": "sslproxies_30d",
@@ -1172,7 +1172,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1340,
+		"ips": 1336,
 		"common": 106
 	},
 	{
@@ -1274,8 +1274,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 281,
-		"common": 2
+		"ips": 225,
+		"common": 17
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 148,
+		"common": 3
 	},
 	{
 		"name": "voipbl",
