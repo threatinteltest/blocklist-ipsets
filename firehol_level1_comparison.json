@@ -20,8 +20,8 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 112,
-		"common": 112
+		"ips": 107,
+		"common": 106
 	},
 	{
 		"name": "bambenek_c2",
@@ -50,8 +50,8 @@
 	{
 		"name": "bambenek_pykspa",
 		"category": "malware",
-		"ips": 5,
-		"common": 5
+		"ips": 4,
+		"common": 4
 	},
 	{
 		"name": "bambenek_ramnit",
@@ -60,10 +60,16 @@
 		"common": 38
 	},
 	{
+		"name": "bambenek_ranbyus",
+		"category": "malware",
+		"ips": 1,
+		"common": 1
+	},
+	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 113,
-		"common": 113
+		"ips": 99,
+		"common": 98
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -188,61 +194,61 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 49940,
+		"ips": 50053,
 		"common": 609
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8816,
+		"ips": 8818,
 		"common": 534
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 335,
+		"ips": 333,
 		"common": 27
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 272,
+		"ips": 271,
 		"common": 19
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 559,
+		"ips": 555,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2740,
-		"common": 30
+		"ips": 2742,
+		"common": 29
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 32877,
+		"ips": 32976,
 		"common": 551
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 15387,
+		"ips": 15379,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 185,
+		"ips": 187,
 		"common": 39
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15529,
+		"ips": 15539,
 		"common": 72
 	},
 	{
@@ -374,37 +380,37 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2658,
+		"ips": 2666,
 		"common": 61
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 32025,
-		"common": 1157
+		"ips": 31927,
+		"common": 1154
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 125292,
+		"ips": 125289,
 		"common": 3163
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 64928,
-		"common": 2389
+		"ips": 64917,
+		"common": 2384
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 22066,
+		"ips": 22073,
 		"common": 96
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 5515,
+		"ips": 5517,
 		"common": 16
 	},
 	{
@@ -416,20 +422,20 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 37224,
-		"common": 1305
+		"ips": 37093,
+		"common": 1300
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 164262,
+		"ips": 164253,
 		"common": 5805
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 82890,
-		"common": 3373
+		"ips": 82871,
+		"common": 3368
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -728,25 +734,25 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39224,
-		"common": 1352
+		"ips": 39095,
+		"common": 1347
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 272882,
+		"ips": 272880,
 		"common": 7945
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40102,
+		"ips": 40106,
 		"common": 27
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 59782,
+		"ips": 59896,
 		"common": 5731
 	},
 	{
@@ -758,13 +764,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9429384,
+		"ips": 9429436,
 		"common": 5814983
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27051,
+		"ips": 27055,
 		"common": 16
 	},
 	{
@@ -1298,7 +1304,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5024,
+		"ips": 5019,
 		"common": 314
 	},
 	{
@@ -1394,7 +1400,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3352,
+		"ips": 3360,
 		"common": 1
 	},
 	{
