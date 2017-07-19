@@ -2,38 +2,44 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 57148,
+		"ips": 57080,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3121,
+		"ips": 3115,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 40567,
+		"ips": 40586,
 		"common": 2
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 50166,
+		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652634525,
-		"common": 46
+		"ips": 652634526,
+		"common": 47
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 66050,
+		"ips": 65983,
 		"common": 2
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 158253,
-		"common": 46
+		"common": 47
 	},
 	{
 		"name": "firehol_webclient",
@@ -52,6 +58,12 @@
 		"category": "unrouteable",
 		"ips": 656139683,
 		"common": 6
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 48442,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_isp_qwest",
