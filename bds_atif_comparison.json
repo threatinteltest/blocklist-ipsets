@@ -116,7 +116,7 @@
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 8095,
+		"ips": 8112,
 		"common": 1
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12258,
+		"ips": 12260,
 		"common": 1
 	},
 	{
@@ -530,7 +530,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40171,
+		"ips": 40172,
 		"common": 57
 	},
 	{
@@ -560,7 +560,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27145,
+		"ips": 27146,
 		"common": 26
 	},
 	{
@@ -1064,13 +1064,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8782,
+		"ips": 8785,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5432,
+		"ips": 5433,
 		"common": 1
 	},
 	{
@@ -1262,8 +1262,8 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 216,
-		"common": 53
+		"ips": 204,
+		"common": 52
 	},
 	{
 		"name": "urandomusto_smb",
@@ -1274,8 +1274,14 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 244,
-		"common": 16
+		"ips": 251,
+		"common": 6
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 447,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",

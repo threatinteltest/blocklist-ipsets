@@ -260,7 +260,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40171,
+		"ips": 40172,
 		"common": 1
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27145,
+		"ips": 27146,
 		"common": 1
 	},
 	{
@@ -572,14 +572,20 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 216,
-		"common": 6
+		"ips": 204,
+		"common": 5
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
 		"ips": 180,
 		"common": 10
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 447,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
