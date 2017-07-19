@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15654,
+		"ips": 15651,
 		"common": 107
 	},
 	{
@@ -200,8 +200,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 450522,
-		"common": 1967
+		"ips": 450548,
+		"common": 1968
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -242,19 +242,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38766,
+		"ips": 38738,
 		"common": 923
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 272928,
+		"ips": 272900,
 		"common": 1575
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40108,
+		"ips": 40109,
 		"common": 2015
 	},
 	{
@@ -266,19 +266,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 157291,
+		"ips": 157844,
 		"common": 194
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9429594,
+		"ips": 9429591,
 		"common": 516
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27064,
+		"ips": 27065,
 		"common": 2019
 	},
 	{
@@ -506,19 +506,19 @@
 	{
 		"name": "php_harvesters_1d",
 		"category": "spam",
-		"ips": 77,
+		"ips": 50,
 		"common": 2
 	},
 	{
 		"name": "php_harvesters_30d",
 		"category": "spam",
-		"ips": 562,
+		"ips": 531,
 		"common": 3
 	},
 	{
 		"name": "php_harvesters_7d",
 		"category": "spam",
-		"ips": 158,
+		"ips": 137,
 		"common": 2
 	},
 	{
@@ -698,19 +698,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3397,
+		"ips": 3388,
 		"common": 21
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8723,
+		"ips": 8725,
 		"common": 28
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5356,
+		"ips": 5358,
 		"common": 26
 	},
 	{
@@ -759,18 +759,18 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 43
+		"common": 45
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 339,
-		"common": 125
+		"ips": 340,
+		"common": 127
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5417,
+		"ips": 5416,
 		"common": 405
 	},
 	{
@@ -842,8 +842,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 255,
+		"ips": 235,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 137,
+		"common": 3
 	},
 	{
 		"name": "xroxy",
