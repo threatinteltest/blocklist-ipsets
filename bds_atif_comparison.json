@@ -356,14 +356,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 20427,
-		"common": 680
+		"ips": 20416,
+		"common": 678
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 18755,
-		"common": 494
+		"ips": 18748,
+		"common": 493
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -398,7 +398,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 452593,
+		"ips": 452635,
 		"common": 52
 	},
 	{
@@ -530,13 +530,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40024,
+		"ips": 40021,
 		"common": 56
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652644753,
+		"ips": 652644756,
 		"common": 114
 	},
 	{
@@ -560,7 +560,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27063,
+		"ips": 27060,
 		"common": 26
 	},
 	{
@@ -1064,13 +1064,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8714,
+		"ips": 8711,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5363,
+		"ips": 5364,
 		"common": 1
 	},
 	{
@@ -1142,7 +1142,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4522,
+		"ips": 4619,
 		"common": 46
 	},
 	{
@@ -1238,8 +1238,8 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 150,
-		"common": 8
+		"ips": 152,
+		"common": 9
 	},
 	{
 		"name": "urandomusto_http",
@@ -1262,8 +1262,8 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 223,
-		"common": 44
+		"ips": 227,
+		"common": 47
 	},
 	{
 		"name": "urandomusto_smb",
@@ -1274,8 +1274,14 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 248,
-		"common": 8
+		"ips": 236,
+		"common": 17
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 443,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",

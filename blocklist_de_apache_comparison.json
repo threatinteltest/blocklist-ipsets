@@ -278,13 +278,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 20427,
+		"ips": 20416,
 		"common": 13
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 18755,
+		"ips": 18748,
 		"common": 12
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 452593,
+		"ips": 452635,
 		"common": 1
 	},
 	{
@@ -446,13 +446,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40024,
+		"ips": 40021,
 		"common": 2
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652644753,
+		"ips": 652644756,
 		"common": 535
 	},
 	{
@@ -830,7 +830,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4522,
+		"ips": 4619,
 		"common": 9
 	},
 	{
@@ -938,14 +938,20 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 223,
+		"ips": 227,
 		"common": 6
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 236,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 450,
-		"common": 1
+		"ips": 443,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",

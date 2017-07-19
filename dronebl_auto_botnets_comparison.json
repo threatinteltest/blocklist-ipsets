@@ -398,14 +398,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 20427,
-		"common": 151
+		"ips": 20416,
+		"common": 150
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 18755,
-		"common": 125
+		"ips": 18748,
+		"common": 124
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -440,7 +440,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 452593,
+		"ips": 452635,
 		"common": 6104
 	},
 	{
@@ -662,13 +662,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40024,
+		"ips": 40021,
 		"common": 648
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652644753,
+		"ips": 652644756,
 		"common": 117
 	},
 	{
@@ -692,7 +692,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27063,
+		"ips": 27060,
 		"common": 637
 	},
 	{
@@ -1332,21 +1332,27 @@
 		"common": 1
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 6
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3396,
+		"ips": 3394,
 		"common": 65
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8714,
+		"ips": 8711,
 		"common": 170
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5363,
+		"ips": 5364,
 		"common": 110
 	},
 	{
@@ -1424,13 +1430,13 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 335,
+		"ips": 333,
 		"common": 2
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5409,
+		"ips": 5408,
 		"common": 46
 	},
 	{
@@ -1454,7 +1460,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4522,
+		"ips": 4619,
 		"common": 22
 	},
 	{
@@ -1526,7 +1532,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 223,
+		"ips": 227,
 		"common": 1
 	},
 	{
@@ -1534,12 +1540,6 @@
 		"category": "attacks",
 		"ips": 177,
 		"common": 1
-	},
-	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 248,
-		"common": 3
 	},
 	{
 		"name": "voipbl",

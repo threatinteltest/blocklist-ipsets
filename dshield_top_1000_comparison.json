@@ -128,14 +128,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 20427,
-		"common": 5
+		"ips": 20416,
+		"common": 6
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 18755,
-		"common": 3
+		"ips": 18748,
+		"common": 4
 	},
 	{
 		"name": "dm_tor",
@@ -146,7 +146,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 452593,
+		"ips": 452635,
 		"common": 2
 	},
 	{
@@ -170,7 +170,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40024,
+		"ips": 40021,
 		"common": 1
 	},
 	{
@@ -400,5 +400,11 @@
 		"category": "reputation",
 		"ips": 29017,
 		"common": 8
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 443,
+		"common": 1
 	}
 ]
