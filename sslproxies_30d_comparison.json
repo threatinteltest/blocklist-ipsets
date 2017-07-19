@@ -14,7 +14,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 254,
+		"ips": 228,
 		"common": 1
 	},
 	{
@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15612,
+		"ips": 15611,
 		"common": 45
 	},
 	{
@@ -72,21 +72,27 @@
 		"common": 4
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 57,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1087,
-		"common": 47
+		"ips": 1088,
+		"common": 40
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16392,
+		"ips": 16389,
 		"common": 498
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5065,
+		"ips": 5066,
 		"common": 151
 	},
 	{
@@ -170,13 +176,13 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6717,
+		"ips": 6724,
 		"common": 4
 	},
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 450345,
+		"ips": 450413,
 		"common": 4059
 	},
 	{
@@ -260,7 +266,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38777,
+		"ips": 38778,
 		"common": 436
 	},
 	{
@@ -272,7 +278,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40049,
+		"ips": 40111,
 		"common": 5391
 	},
 	{
@@ -290,13 +296,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9429554,
+		"ips": 9429550,
 		"common": 511
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27063,
+		"ips": 27067,
 		"common": 5394
 	},
 	{
@@ -752,19 +758,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3381,
+		"ips": 3382,
 		"common": 24
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8718,
+		"ips": 8722,
 		"common": 112
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5349,
+		"ips": 5355,
 		"common": 40
 	},
 	{
@@ -818,8 +824,8 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 350,
-		"common": 350
+		"ips": 344,
+		"common": 344
 	},
 	{
 		"name": "sslproxies_7d",
