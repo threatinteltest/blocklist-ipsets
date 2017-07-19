@@ -74,19 +74,19 @@
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 8040,
+		"ips": 8041,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24308,
+		"ips": 24309,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12215,
+		"ips": 12220,
 		"common": 1
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15640,
+		"ips": 15516,
 		"common": 135
 	},
 	{
@@ -350,13 +350,13 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 452760,
+		"ips": 452909,
 		"common": 31
 	},
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 312387,
+		"ips": 312385,
 		"common": 10
 	},
 	{
@@ -482,7 +482,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9429577,
+		"ips": 9429458,
 		"common": 248
 	},
 	{
@@ -1010,13 +1010,19 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 246,
-		"common": 40
+		"ips": 264,
+		"common": 43
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 136,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 132,
+		"ips": 131,
 		"common": 19
 	},
 	{
@@ -1028,7 +1034,7 @@
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 177,
+		"ips": 178,
 		"common": 35
 	},
 	{
@@ -1046,8 +1052,8 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 162,
-		"common": 21
+		"ips": 165,
+		"common": 20
 	},
 	{
 		"name": "urandomusto_vnc",
