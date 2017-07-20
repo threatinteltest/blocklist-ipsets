@@ -122,8 +122,8 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 105,
-		"common": 102
+		"ips": 110,
+		"common": 107
 	},
 	{
 		"name": "bambenek_c2",
@@ -140,8 +140,8 @@
 	{
 		"name": "bambenek_pykspa",
 		"category": "malware",
-		"ips": 8,
-		"common": 7
+		"ips": 6,
+		"common": 6
 	},
 	{
 		"name": "bambenek_ramnit",
@@ -158,8 +158,8 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 124,
-		"common": 124
+		"ips": 120,
+		"common": 120
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -194,8 +194,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 606,
-		"common": 92
+		"ips": 608,
+		"common": 93
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -290,8 +290,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 63546,
-		"common": 5100
+		"ips": 63364,
+		"common": 5093
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -302,43 +302,43 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 347,
+		"ips": 346,
 		"common": 93
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 348,
+		"ips": 346,
 		"common": 78
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 572,
+		"ips": 573,
 		"common": 23
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3194,
-		"common": 162
+		"ips": 3179,
+		"common": 161
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 48000,
-		"common": 4688
+		"ips": 47842,
+		"common": 4682
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 273,
-		"common": 45
+		"ips": 269,
+		"common": 44
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13778,
+		"ips": 13758,
 		"common": 152
 	},
 	{
@@ -350,8 +350,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12839,
-		"common": 1306
+		"ips": 12763,
+		"common": 1309
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -944,8 +944,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40342,
-		"common": 5921
+		"ips": 40345,
+		"common": 5922
 	},
 	{
 		"name": "firehol_level1",
@@ -956,8 +956,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 73830,
-		"common": 8879
+		"ips": 73648,
+		"common": 8872
 	},
 	{
 		"name": "firehol_level3",
@@ -968,14 +968,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9281583,
-		"common": 53816
+		"ips": 9281429,
+		"common": 53791
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27329,
-		"common": 3179
+		"ips": 27332,
+		"common": 3180
 	},
 	{
 		"name": "firehol_webclient",
@@ -1460,8 +1460,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 25326,
-		"common": 429
+		"ips": 24617,
+		"common": 422
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1496,8 +1496,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3503,
-		"common": 279
+		"ips": 3406,
+		"common": 286
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -1824,21 +1824,27 @@
 		"common": 448
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 2
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3601,
+		"ips": 3602,
 		"common": 174
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8963,
+		"ips": 8965,
 		"common": 369
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5661,
+		"ips": 5664,
 		"common": 280
 	},
 	{
@@ -1917,25 +1923,25 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 24
+		"common": 27
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 392,
-		"common": 84
+		"ips": 391,
+		"common": 85
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5298,
-		"common": 1048
+		"ips": 5299,
+		"common": 1049
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1371,
-		"common": 275
+		"ips": 1370,
+		"common": 276
 	},
 	{
 		"name": "stopforumspam",
