@@ -12,21 +12,9 @@
 		"common": 2
 	},
 	{
-		"name": "bi_any_2_1d",
-		"category": "attacks",
-		"ips": 608,
-		"common": 1
-	},
-	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 3287,
-		"common": 1
-	},
-	{
-		"name": "bi_any_2_7d",
-		"category": "attacks",
-		"ips": 2252,
 		"common": 1
 	},
 	{
@@ -38,26 +26,38 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 63364,
-		"common": 166
+		"ips": 63468,
+		"common": 167
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8858,
-		"common": 166
+		"ips": 8862,
+		"common": 167
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 47842,
-		"common": 166
+		"ips": 47867,
+		"common": 167
 	},
 	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 50675,
-		"common": 5
+		"common": 3
+	},
+	{
+		"name": "dataplane_dnsrd",
+		"category": "attacks",
+		"ips": 409,
+		"common": 1
+	},
+	{
+		"name": "dataplane_dnsversion",
+		"category": "attacks",
+		"ips": 235,
+		"common": 1
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -104,20 +104,20 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 274632,
+		"ips": 274612,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 73648,
-		"common": 167
+		"ips": 73751,
+		"common": 168
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 159120,
-		"common": 5
+		"common": 3
 	},
 	{
 		"name": "firehol_webserver",
@@ -129,7 +129,13 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 48646,
-		"common": 4
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346612179,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_level3",
@@ -150,34 +156,16 @@
 		"common": 1
 	},
 	{
-		"name": "packetmail",
-		"category": "reputation",
-		"ips": 3406,
-		"common": 1
-	},
-	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2284,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
 		"common": 168
-	},
-	{
-		"name": "sorbs_dul",
-		"category": "spam",
-		"ips": 375226662,
-		"common": 1
-	},
-	{
-		"name": "sorbs_web",
-		"category": "spam",
-		"ips": 6267285,
-		"common": 1
 	},
 	{
 		"name": "stopforumspam",
@@ -207,7 +195,7 @@
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 537175,
-		"common": 166
+		"common": 167
 	},
 	{
 		"name": "taichung",
@@ -219,12 +207,12 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29017,
-		"common": 5
+		"common": 2
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 168,
+		"ips": 169,
 		"common": 166
 	}
 ]

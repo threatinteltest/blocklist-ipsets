@@ -110,13 +110,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 63364,
-		"common": 842
+		"ips": 63468,
+		"common": 843
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8858,
+		"ips": 8862,
 		"common": 66
 	},
 	{
@@ -140,19 +140,19 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3179,
+		"ips": 3187,
 		"common": 27
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 47842,
-		"common": 594
+		"ips": 47867,
+		"common": 595
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13758,
+		"ips": 13825,
 		"common": 14
 	},
 	{
@@ -626,13 +626,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 42524,
-		"common": 18261
+		"ips": 42508,
+		"common": 18257
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 274632,
+		"ips": 274612,
 		"common": 154322
 	},
 	{
@@ -644,14 +644,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652603820,
+		"ips": 652603818,
 		"common": 3235
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 73648,
-		"common": 890
+		"ips": 73751,
+		"common": 891
 	},
 	{
 		"name": "firehol_level3",
@@ -1142,20 +1142,20 @@
 	{
 		"name": "php_dictionary_1d",
 		"category": "spam",
-		"ips": 81,
-		"common": 60
+		"ips": 77,
+		"common": 61
 	},
 	{
 		"name": "php_dictionary_30d",
 		"category": "spam",
-		"ips": 1118,
-		"common": 305
+		"ips": 1135,
+		"common": 316
 	},
 	{
 		"name": "php_dictionary_7d",
 		"category": "spam",
-		"ips": 237,
-		"common": 109
+		"ips": 257,
+		"common": 122
 	},
 	{
 		"name": "php_harvesters",
@@ -1185,25 +1185,25 @@
 		"name": "php_spammers",
 		"category": "spam",
 		"ips": 50,
-		"common": 42
+		"common": 38
 	},
 	{
 		"name": "php_spammers_1d",
 		"category": "spam",
-		"ips": 82,
-		"common": 64
+		"ips": 79,
+		"common": 59
 	},
 	{
 		"name": "php_spammers_30d",
 		"category": "spam",
-		"ips": 1210,
-		"common": 357
+		"ips": 1192,
+		"common": 359
 	},
 	{
 		"name": "php_spammers_7d",
 		"category": "spam",
-		"ips": 240,
-		"common": 125
+		"ips": 261,
+		"common": 135
 	},
 	{
 		"name": "proxylists",
@@ -1322,7 +1322,7 @@
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 354,
+		"ips": 352,
 		"common": 2
 	},
 	{
@@ -1604,19 +1604,25 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 88,
+		"ips": 89,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 173,
+		"ips": 174,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 169,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 106,
+		"ips": 107,
 		"common": 1
 	},
 	{
