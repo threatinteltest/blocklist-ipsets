@@ -68,7 +68,7 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 1394,
+		"ips": 1387,
 		"common": 24
 	},
 	{
@@ -92,25 +92,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6509,
+		"ips": 6518,
 		"common": 104
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 8050,
+		"ips": 8056,
 		"common": 114
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24344,
+		"ips": 24348,
 		"common": 141
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12297,
+		"ips": 12302,
 		"common": 123
 	},
 	{
@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3196,
+		"ips": 3201,
 		"common": 10
 	},
 	{
@@ -158,7 +158,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12605,
+		"ips": 12594,
 		"common": 313
 	},
 	{
@@ -200,14 +200,14 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 27,
-		"common": 7
+		"ips": 57,
+		"common": 20
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 862,
-		"common": 283
+		"ips": 860,
+		"common": 284
 	},
 	{
 		"name": "botscout_30d",
@@ -218,8 +218,8 @@
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4702,
-		"common": 1038
+		"ips": 4687,
+		"common": 1030
 	},
 	{
 		"name": "botvrij_dst",
@@ -392,8 +392,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 458193,
-		"common": 19713
+		"ips": 458252,
+		"common": 19719
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -542,8 +542,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39254,
-		"common": 3954
+		"ips": 39253,
+		"common": 3953
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -560,8 +560,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 66016,
-		"common": 1430
+		"ips": 66008,
+		"common": 1431
 	},
 	{
 		"name": "firehol_level3",
@@ -572,7 +572,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9203119,
+		"ips": 9203111,
 		"common": 2606
 	},
 	{
@@ -614,8 +614,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2348,
-		"common": 21
+		"ips": 2341,
+		"common": 22
 	},
 	{
 		"name": "haley_ssh",
@@ -1442,8 +1442,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 258,
+		"ips": 248,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 129,
+		"common": 23
 	},
 	{
 		"name": "uscert_hidden_cobra",
