@@ -1,5 +1,11 @@
 [
 	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 32352,
+		"common": 1
+	},
+	{
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 8912,
@@ -8,20 +14,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 56596,
+		"ips": 56541,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 14348,
+		"ips": 14272,
 		"common": 1
 	},
 	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 47677,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "dataplane_dnsrd",
@@ -92,20 +98,20 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652634529,
+		"ips": 652634530,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 65436,
+		"ips": 65379,
 		"common": 3
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 156165,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "firehol_webserver",
@@ -116,7 +122,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2392,
+		"ips": 2394,
 		"common": 3
 	},
 	{
@@ -129,7 +135,7 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 48646,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_isp_verizon",
@@ -165,7 +171,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3644,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -189,7 +195,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29017,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "voipbl",
