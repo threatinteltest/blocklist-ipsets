@@ -3,19 +3,31 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 57086,
-		"common": 9
+		"common": 11
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
 		"ips": 564,
-		"common": 9
+		"common": 11
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 11055,
-		"common": 3
+		"common": 4
+	},
+	{
+		"name": "blueliv_crimeserver_last_30d",
+		"category": "attacks",
+		"ips": 31222,
+		"common": 1
+	},
+	{
+		"name": "blueliv_crimeserver_online",
+		"category": "attacks",
+		"ips": 30542,
+		"common": 1
 	},
 	{
 		"name": "ciarmy",
@@ -33,19 +45,19 @@
 		"name": "cleantalk_1d",
 		"category": "abuse",
 		"ips": 32499,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 125612,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 66609,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "cleantalk_new_1d",
@@ -75,19 +87,19 @@
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
 		"ips": 37845,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 164658,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 85402,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -129,25 +141,25 @@
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 40386,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 274180,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652634542,
+		"ips": 652634541,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 65100,
-		"common": 11
+		"common": 13
 	},
 	{
 		"name": "firehol_level3",
@@ -159,19 +171,19 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9201553,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740552,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1271,
-		"common": 4
+		"common": 6
 	},
 	{
 		"name": "hphosts_emd",
@@ -180,10 +192,22 @@
 		"common": 1
 	},
 	{
+		"name": "hphosts_psh",
+		"category": "reputation",
+		"ips": 29405,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 48646,
 		"common": 2
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227983183,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_level1",
@@ -195,7 +219,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346612186,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_level3",
