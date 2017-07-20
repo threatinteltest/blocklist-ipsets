@@ -56,8 +56,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 57063,
-		"common": 2210
+		"ips": 57188,
+		"common": 2215
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 8880,
+		"common": 7
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -68,13 +74,13 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 345,
+		"ips": 344,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 564,
+		"ips": 568,
 		"common": 1
 	},
 	{
@@ -84,15 +90,21 @@
 		"common": 118
 	},
 	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 41174,
+		"common": 2052
+	},
+	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 14202,
-		"common": 156
+		"ips": 14210,
+		"common": 153
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 187,
+		"ips": 186,
 		"common": 8
 	},
 	{
@@ -308,14 +320,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19227,
+		"ips": 19175,
 		"common": 104
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 17649,
-		"common": 95
+		"ips": 17597,
+		"common": 96
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -524,7 +536,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40351,
+		"ips": 40439,
 		"common": 425
 	},
 	{
@@ -542,19 +554,19 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652634541,
+		"ips": 652634546,
 		"common": 9
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 67217,
-		"common": 2218
+		"ips": 67342,
+		"common": 2223
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 156467,
+		"ips": 156472,
 		"common": 159
 	},
 	{
@@ -1286,8 +1298,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5216,
-		"common": 69
+		"ips": 5356,
+		"common": 70
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1328,7 +1340,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 11094,
+		"ips": 11098,
 		"common": 15
 	},
 	{
