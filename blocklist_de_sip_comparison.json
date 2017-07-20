@@ -50,8 +50,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 58010,
-		"common": 262
+		"ips": 57975,
+		"common": 260
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -62,8 +62,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11320,
-		"common": 11
+		"ips": 11309,
+		"common": 12
 	},
 	{
 		"name": "ciarmy",
@@ -96,9 +96,21 @@
 		"common": 3
 	},
 	{
+		"name": "cleantalk_new_1d",
+		"category": "abuse",
+		"ips": 1591,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 22347,
+		"common": 2
+	},
+	{
+		"name": "cleantalk_new_7d",
+		"category": "abuse",
+		"ips": 5850,
 		"common": 1
 	},
 	{
@@ -242,8 +254,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 68694,
-		"common": 262
+		"ips": 68661,
+		"common": 260
 	},
 	{
 		"name": "firehol_level3",
@@ -254,8 +266,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9201802,
-		"common": 27
+		"ips": 9201791,
+		"common": 28
 	},
 	{
 		"name": "firehol_webclient",
@@ -267,7 +279,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740554,
-		"common": 50
+		"common": 51
 	},
 	{
 		"name": "gofferje_sip",
@@ -285,7 +297,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656057251,
-		"common": 9
+		"common": 7
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -414,12 +426,6 @@
 		"common": 6
 	},
 	{
-		"name": "lashback_ubl",
-		"category": "spam",
-		"ips": 1657437,
-		"common": 1
-	},
-	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
@@ -429,7 +435,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 50
+		"common": 51
 	},
 	{
 		"name": "sblam",
@@ -453,13 +459,13 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 8
+		"common": 6
 	},
 	{
 		"name": "spamhaus_drop",

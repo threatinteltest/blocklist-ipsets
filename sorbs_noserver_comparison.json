@@ -98,62 +98,62 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 58010,
-		"common": 1385
+		"ips": 57975,
+		"common": 1389
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8879,
+		"ips": 8874,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 336,
+		"ips": 333,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 343,
+		"ips": 339,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 571,
-		"common": 2
+		"ips": 565,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3267,
+		"ips": 3250,
 		"common": 20
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 41976,
-		"common": 1224
+		"ips": 42031,
+		"common": 1230
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 302,
+		"ips": 300,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 14231,
-		"common": 153
+		"ips": 14153,
+		"common": 152
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11320,
-		"common": 70
+		"ips": 11309,
+		"common": 69
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -584,8 +584,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 68694,
-		"common": 1387
+		"ips": 68661,
+		"common": 1392
 	},
 	{
 		"name": "firehol_level3",
@@ -596,8 +596,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9201802,
-		"common": 911
+		"ips": 9201791,
+		"common": 910
 	},
 	{
 		"name": "firehol_proxies",
@@ -842,8 +842,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 33192,
-		"common": 1519
+		"ips": 33054,
+		"common": 1456
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1014,10 +1014,16 @@
 		"common": 22
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 3
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3516,
-		"common": 86
+		"ips": 3525,
+		"common": 87
 	},
 	{
 		"name": "socks_proxy_30d",
