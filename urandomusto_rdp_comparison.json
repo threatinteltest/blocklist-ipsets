@@ -33,7 +33,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 48537,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "cleantalk_1d",
@@ -72,6 +72,12 @@
 		"common": 1
 	},
 	{
+		"name": "cybercrime",
+		"category": "malware",
+		"ips": 29727,
+		"common": 1
+	},
+	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
 		"ips": 487,
@@ -105,7 +111,7 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "dshield_1d",
@@ -170,8 +176,20 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 157282,
-		"common": 16
+		"ips": 157280,
+		"common": 17
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9201814,
+		"common": 1
+	},
+	{
+		"name": "firehol_webclient",
+		"category": "malware",
+		"ips": 33363,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
@@ -186,22 +204,28 @@
 		"common": 7
 	},
 	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 21227,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656057251,
-		"common": 5
+		"common": 7
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 48646,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691607,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "iblocklist_level2",
@@ -255,7 +279,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "sorbs_web",
@@ -315,7 +339,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29017,
-		"common": 17
+		"common": 18
 	},
 	{
 		"name": "urandomusto_http",
@@ -324,10 +348,16 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 140,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 415,
-		"common": 3
+		"ips": 442,
+		"common": 7
 	},
 	{
 		"name": "voipbl",
