@@ -20,7 +20,7 @@
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
-		"ips": 2251,
+		"ips": 2250,
 		"common": 28
 	},
 	{
@@ -32,14 +32,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 60229,
+		"ips": 60552,
 		"common": 145
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 347,
+		"ips": 353,
 		"common": 23
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 44858,
+		"common": 122
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -206,13 +212,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 71481,
+		"ips": 71804,
 		"common": 145
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 157837,
+		"ips": 157844,
 		"common": 114
 	},
 	{
@@ -368,8 +374,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31751,
-		"common": 121
+		"ips": 31612,
+		"common": 125
 	},
 	{
 		"name": "packetmail_mail",
@@ -747,6 +753,12 @@
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 6383,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 128,
 		"common": 1
 	},
 	{

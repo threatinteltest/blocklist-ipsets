@@ -20,7 +20,7 @@
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
-		"ips": 2251,
+		"ips": 2250,
 		"common": 22
 	},
 	{
@@ -32,14 +32,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 60229,
+		"ips": 60552,
 		"common": 112
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 347,
+		"ips": 353,
 		"common": 20
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 44858,
+		"common": 92
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -224,13 +230,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 71481,
+		"ips": 71804,
 		"common": 112
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 157837,
+		"ips": 157844,
 		"common": 113
 	},
 	{
@@ -380,8 +386,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31751,
-		"common": 87
+		"ips": 31612,
+		"common": 88
 	},
 	{
 		"name": "nullsecure",
@@ -765,6 +771,12 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 11091,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 128,
 		"common": 1
 	},
 	{
