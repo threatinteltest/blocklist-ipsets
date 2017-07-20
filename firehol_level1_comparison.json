@@ -20,8 +20,8 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 96,
-		"common": 96
+		"ips": 109,
+		"common": 97
 	},
 	{
 		"name": "bambenek_c2",
@@ -56,14 +56,14 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 108,
-		"common": 108
+		"ips": 120,
+		"common": 111
 	},
 	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
-		"ips": 60,
-		"common": 60
+		"ips": 58,
+		"common": 57
 	},
 	{
 		"name": "bambenek_tinba",
@@ -242,7 +242,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12573,
+		"ips": 12579,
 		"common": 75
 	},
 	{
@@ -584,8 +584,8 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 908,
-		"common": 2
+		"ips": 895,
+		"common": 1
 	},
 	{
 		"name": "dyndns_ponmocup",
@@ -693,7 +693,7 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24721471,
-		"common": 24718900
+		"common": 24718899
 	},
 	{
 		"name": "et_botcc",
@@ -746,7 +746,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40351,
+		"ips": 40349,
 		"common": 29
 	},
 	{
@@ -758,19 +758,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 158580,
-		"common": 6374
+		"ips": 158570,
+		"common": 6373
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9199351,
+		"ips": 9199356,
 		"common": 5662393
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27301,
+		"ips": 27299,
 		"common": 18
 	},
 	{
@@ -783,7 +783,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34732771,
-		"common": 20358
+		"common": 20357
 	},
 	{
 		"name": "fullbogons",
@@ -831,7 +831,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26333,
-		"common": 394
+		"common": 393
 	},
 	{
 		"name": "hphosts_exp",
@@ -1148,7 +1148,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 30728,
+		"ips": 30644,
 		"common": 20
 	},
 	{
@@ -1196,14 +1196,14 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 258,
-		"common": 1
+		"ips": 251,
+		"common": 2
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2306,
-		"common": 67
+		"ips": 2284,
+		"common": 65
 	},
 	{
 		"name": "php_commenters_1d",
@@ -1394,19 +1394,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3526,
+		"ips": 3516,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8948,
+		"ips": 8947,
 		"common": 7
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5640,
+		"ips": 5639,
 		"common": 1
 	},
 	{
@@ -1484,19 +1484,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 377,
+		"ips": 375,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5286,
+		"ips": 5285,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1369,
+		"ips": 1368,
 		"common": 1
 	},
 	{
@@ -1604,56 +1604,50 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 67,
+		"ips": 80,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 253,
+		"ips": 277,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 126,
+		"ips": 145,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 16,
-		"common": 5
+		"ips": 19,
+		"common": 8
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 85,
+		"ips": 95,
 		"common": 7
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 8,
+		"ips": 9,
 		"common": 6
-	},
-	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 185,
-		"common": 2
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 438,
+		"ips": 442,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 109,
-		"common": 7
+		"ips": 127,
+		"common": 8
 	},
 	{
 		"name": "urlvir",
@@ -1666,12 +1660,6 @@
 		"category": "attacks",
 		"ips": 29833,
 		"common": 81
-	},
-	{
-		"name": "vxvault",
-		"category": "malware",
-		"ips": 91,
-		"common": 1
 	},
 	{
 		"name": "xforce_bccs",
@@ -1707,12 +1695,12 @@
 		"name": "zeus",
 		"category": "malware",
 		"ips": 137,
-		"common": 126
+		"common": 125
 	},
 	{
 		"name": "zeus_badips",
 		"category": "malware",
-		"ips": 125,
-		"common": 125
+		"ips": 124,
+		"common": 124
 	}
 ]

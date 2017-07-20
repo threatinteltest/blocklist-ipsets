@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12573,
+		"ips": 12579,
 		"common": 22
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40351,
+		"ips": 40349,
 		"common": 497
 	},
 	{
@@ -212,19 +212,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 158580,
+		"ips": 158570,
 		"common": 62
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9199351,
+		"ips": 9199356,
 		"common": 116
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27301,
+		"ips": 27299,
 		"common": 498
 	},
 	{
@@ -332,8 +332,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 30728,
-		"common": 25
+		"ips": 30644,
+		"common": 24
 	},
 	{
 		"name": "php_commenters",
@@ -558,21 +558,27 @@
 		"common": 122
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 2
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3526,
-		"common": 54
+		"ips": 3516,
+		"common": 53
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8948,
+		"ips": 8947,
 		"common": 70
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5640,
+		"ips": 5639,
 		"common": 69
 	},
 	{
@@ -615,24 +621,24 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 17
+		"common": 15
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 377,
+		"ips": 375,
 		"common": 31
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5286,
+		"ips": 5285,
 		"common": 47
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1369,
+		"ips": 1368,
 		"common": 40
 	},
 	{
@@ -684,10 +690,10 @@
 		"common": 1
 	},
 	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 126,
-		"common": 2
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 277,
+		"common": 1
 	},
 	{
 		"name": "xroxy",
