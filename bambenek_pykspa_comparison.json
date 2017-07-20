@@ -56,14 +56,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9201777,
+		"ips": 9201778,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740554,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "hphosts_ats",
@@ -108,6 +108,12 @@
 		"common": 3
 	},
 	{
+		"name": "iblocklist_bogons",
+		"category": "unrouteable",
+		"ips": 656057251,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983183,
@@ -129,7 +135,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "ransomware_locky_c2",
