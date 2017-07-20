@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32352,
-		"common": 375
+		"common": 376
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -18,9 +18,33 @@
 		"common": 28
 	},
 	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 218,
+		"common": 1
+	},
+	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 3287,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 2251,
+		"common": 1
+	},
+	{
+		"name": "bi_ftp_2_30d",
+		"category": "attacks",
+		"ips": 59,
+		"common": 1
+	},
+	{
+		"name": "bi_http_2_30d",
+		"category": "attacks",
+		"ips": 124,
 		"common": 1
 	},
 	{
@@ -44,31 +68,31 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6660,
+		"ips": 6643,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 8116,
+		"ips": 8107,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24428,
+		"ips": 24433,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12392,
+		"ips": 12395,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 60088,
+		"ips": 60229,
 		"common": 5
 	},
 	{
@@ -129,7 +153,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 49369,
-		"common": 412
+		"common": 413
 	},
 	{
 		"name": "cleantalk_1d",
@@ -183,19 +207,19 @@
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
 		"ips": 466,
-		"common": 5
+		"common": 3
 	},
 	{
 		"name": "dataplane_dnsversion",
 		"category": "attacks",
 		"ips": 237,
-		"common": 5
+		"common": 3
 	},
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 358,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -225,7 +249,7 @@
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 458915,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -248,7 +272,7 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 9728,
+		"ips": 9984,
 		"common": 5120
 	},
 	{
@@ -260,14 +284,14 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 15360,
+		"ips": 15616,
 		"common": 5120
 	},
 	{
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24721471,
-		"common": 3072
+		"common": 2816
 	},
 	{
 		"name": "et_compromised",
@@ -279,7 +303,7 @@
 		"name": "et_dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 3072
+		"common": 2816
 	},
 	{
 		"name": "et_tor",
@@ -314,7 +338,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 71086,
+		"ips": 71481,
 		"common": 5120
 	},
 	{
@@ -326,7 +350,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9201788,
+		"ips": 9201937,
 		"common": 14
 	},
 	{
@@ -338,7 +362,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 33430,
+		"ips": 33432,
 		"common": 2
 	},
 	{
@@ -363,7 +387,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1881,
-		"common": 44
+		"common": 43
 	},
 	{
 		"name": "haley_ssh",
@@ -399,7 +423,7 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 48646,
-		"common": 293
+		"common": 294
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -489,7 +513,7 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2306,
-		"common": 58
+		"common": 59
 	},
 	{
 		"name": "proxylists_1d",
@@ -567,7 +591,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "sslbl_aggressive",
@@ -651,7 +675,7 @@
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 6383,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "tor_exits",
@@ -687,7 +711,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29017,
-		"common": 574
+		"common": 575
 	},
 	{
 		"name": "urandomusto_ftp",
@@ -741,7 +765,7 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 29815,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "xroxy_1d",
