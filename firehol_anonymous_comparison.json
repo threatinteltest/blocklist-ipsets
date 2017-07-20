@@ -32,7 +32,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 206,
+		"ips": 207,
 		"common": 37
 	},
 	{
@@ -116,37 +116,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 58404,
-		"common": 1319
+		"ips": 58348,
+		"common": 1294
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8884,
+		"ips": 8875,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 343,
-		"common": 68
+		"ips": 342,
+		"common": 67
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3190,
+		"ips": 3196,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 42001,
-		"common": 1240
+		"ips": 41998,
+		"common": 1216
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 14601,
+		"ips": 14553,
 		"common": 11
 	},
 	{
@@ -189,7 +189,7 @@
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 30542,
-		"common": 506
+		"common": 505
 	},
 	{
 		"name": "bm_tor",
@@ -338,13 +338,13 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 487,
+		"ips": 475,
 		"common": 8
 	},
 	{
 		"name": "dataplane_dnsrdany",
 		"category": "attacks",
-		"ips": 224,
+		"ips": 217,
 		"common": 8
 	},
 	{
@@ -392,8 +392,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 455023,
-		"common": 19626
+		"ips": 455065,
+		"common": 19628
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -428,7 +428,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 129815,
+		"ips": 129814,
 		"common": 1939
 	},
 	{
@@ -548,20 +548,20 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652634553,
+		"ips": 652634552,
 		"common": 32
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 67670,
-		"common": 1350
+		"ips": 67615,
+		"common": 1325
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 159388,
-		"common": 1903
+		"common": 1902
 	},
 	{
 		"name": "firehol_level4",
@@ -572,8 +572,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27216,
-		"common": 27188
+		"ips": 27218,
+		"common": 27190
 	},
 	{
 		"name": "firehol_webclient",
@@ -650,7 +650,7 @@
 	{
 		"name": "iblocklist_badpeers",
 		"category": "reputation",
-		"ips": 1568837,
+		"ips": 1568836,
 		"common": 19
 	},
 	{
@@ -830,8 +830,8 @@
 	{
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
-		"ips": 4125283,
-		"common": 139
+		"ips": 4326689,
+		"common": 132
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -914,8 +914,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37784,
-		"common": 392
+		"ips": 38094,
+		"common": 370
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1209,31 +1209,31 @@
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 10696,
-		"common": 920
+		"common": 919
 	},
 	{
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 80
+		"common": 76
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3661,
-		"common": 3576
+		"ips": 3669,
+		"common": 3584
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8922,
-		"common": 8739
+		"ips": 8924,
+		"common": 8741
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5587,
-		"common": 5487
+		"ips": 5586,
+		"common": 5486
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -1245,7 +1245,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 3509
+		"common": 3511
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -1316,8 +1316,8 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5329,
-		"common": 5298
+		"ips": 5328,
+		"common": 5297
 	},
 	{
 		"name": "sslproxies_7d",
@@ -1383,7 +1383,7 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 11096,
-		"common": 937
+		"common": 936
 	},
 	{
 		"name": "threatcrowd",
@@ -1400,19 +1400,19 @@
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 958,
+		"ips": 959,
 		"common": 923
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 1976,
+		"ips": 1977,
 		"common": 973
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1181,
+		"ips": 1182,
 		"common": 941
 	},
 	{
