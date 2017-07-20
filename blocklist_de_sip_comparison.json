@@ -21,25 +21,25 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 8912,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 226,
-		"common": 2
+		"ips": 225,
+		"common": 1
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 3317,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 2251,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "bi_http_2_30d",
@@ -57,19 +57,13 @@
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
 		"ips": 1771,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 56370,
-		"common": 268
-	},
-	{
-		"name": "blocklist_de_ssh",
-		"category": "attacks",
-		"ips": 14329,
-		"common": 1
+		"common": 267
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -81,13 +75,7 @@
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 12068,
-		"common": 15
-	},
-	{
-		"name": "bruteforceblocker",
-		"category": "attacks",
-		"ips": 1133,
-		"common": 1
+		"common": 13
 	},
 	{
 		"name": "ciarmy",
@@ -171,7 +159,7 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 19297,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "dataplane_sshpwauth",
@@ -240,12 +228,6 @@
 		"common": 1
 	},
 	{
-		"name": "et_compromised",
-		"category": "attacks",
-		"ips": 1121,
-		"common": 1
-	},
-	{
 		"name": "et_spamhaus",
 		"category": "attacks",
 		"ips": 24715264,
@@ -273,19 +255,19 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 65196,
-		"common": 268
+		"common": 267
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 156165,
-		"common": 21
+		"common": 20
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9202588,
-		"common": 34
+		"common": 31
 	},
 	{
 		"name": "firehol_webclient",
@@ -315,13 +297,13 @@
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 21219,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656057251,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -477,7 +459,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 40
+		"common": 39
 	},
 	{
 		"name": "sorbs_noserver",
@@ -561,7 +543,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29017,
-		"common": 23
+		"common": 21
 	},
 	{
 		"name": "urandomusto_unspecified",
@@ -573,6 +555,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 29815,
-		"common": 69
+		"common": 70
 	}
 ]
