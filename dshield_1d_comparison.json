@@ -146,7 +146,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12672,
+		"ips": 12640,
 		"common": 3
 	},
 	{
@@ -198,57 +198,45 @@
 		"common": 1
 	},
 	{
-		"name": "cleantalk",
-		"category": "abuse",
-		"ips": 2643,
-		"common": 1
-	},
-	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 32291,
+		"ips": 32288,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 125472,
+		"ips": 125507,
 		"common": 13
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 66210,
+		"ips": 66246,
 		"common": 7
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 22389,
+		"ips": 22395,
 		"common": 4
-	},
-	{
-		"name": "cleantalk_updated",
-		"category": "abuse",
-		"ips": 2000,
-		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 37464,
+		"ips": 37473,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 164347,
+		"ips": 164392,
 		"common": 13
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 84766,
+		"ips": 84821,
 		"common": 7
 	},
 	{
@@ -314,7 +302,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 458897,
+		"ips": 458900,
 		"common": 13
 	},
 	{
@@ -380,13 +368,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39587,
+		"ips": 39627,
 		"common": 6
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 273877,
+		"ips": 273917,
 		"common": 15
 	},
 	{
@@ -416,7 +404,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9203162,
+		"ips": 9203136,
 		"common": 30
 	},
 	{
@@ -806,7 +794,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 13,
+		"ips": 19,
 		"common": 4
 	},
 	{
@@ -814,6 +802,12 @@
 		"category": "attacks",
 		"ips": 195,
 		"common": 16
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 179,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_vnc",
