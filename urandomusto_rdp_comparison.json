@@ -21,13 +21,25 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 59144,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 8863,
 		"common": 2
+	},
+	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 3289,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 43515,
+		"common": 1
 	},
 	{
 		"name": "ciarmy",
@@ -171,7 +183,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 70126,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "firehol_level3",
@@ -195,7 +207,13 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740554,
-		"common": 9
+		"common": 10
+	},
+	{
+		"name": "gofferje_sip",
+		"category": "attacks",
+		"ips": 1095954,
+		"common": 1
 	},
 	{
 		"name": "greensnow",
@@ -234,6 +252,12 @@
 		"common": 2
 	},
 	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 138917095,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_spamhaus_drop",
 		"category": "attacks",
 		"ips": 24715264,
@@ -258,6 +282,12 @@
 		"common": 1
 	},
 	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 31812,
+		"common": 1
+	},
+	{
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3579,
@@ -273,7 +303,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "sorbs_dul",
@@ -350,8 +380,8 @@
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 393,
-		"common": 7
+		"ips": 447,
+		"common": 4
 	},
 	{
 		"name": "voipbl",
