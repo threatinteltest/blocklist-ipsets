@@ -1,5 +1,29 @@
 [
 	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 32352,
+		"common": 1
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 47677,
+		"common": 2
+	},
+	{
+		"name": "dataplane_dnsrd",
+		"category": "attacks",
+		"ips": 422,
+		"common": 1
+	},
+	{
+		"name": "dataplane_dnsrdany",
+		"category": "attacks",
+		"ips": 193,
+		"common": 1
+	},
+	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 28928,
@@ -8,13 +32,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 156155,
-		"common": 1
+		"ips": 156165,
+		"common": 3
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9202523,
+		"ips": 9202530,
 		"common": 1
 	},
 	{
@@ -24,10 +48,22 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_bogons",
+		"category": "unrouteable",
+		"ips": 656057251,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 48646,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139020383,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "jigsaw_malware",
@@ -36,9 +72,15 @@
 		"common": 2
 	},
 	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2322,
+		"common": 1
+	},
+	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29017,
-		"common": 4
+		"common": 5
 	}
 ]

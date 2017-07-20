@@ -98,13 +98,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 65250,
-		"common": 2
+		"ips": 65252,
+		"common": 3
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 156155,
+		"ips": 156165,
 		"common": 3
 	},
 	{
@@ -116,8 +116,14 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2375,
-		"common": 2
+		"ips": 2377,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unrouteable",
+		"ips": 656057251,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -138,16 +144,34 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 139020383,
+		"common": 1
+	},
+	{
+		"name": "jigsaw_attacks",
+		"category": "attacks",
+		"ips": 27109,
+		"common": 1
+	},
+	{
+		"name": "jigsaw_malware",
+		"category": "malware",
+		"ips": 59614,
+		"common": 1
+	},
+	{
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3644,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2322,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -165,7 +189,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29017,
-		"common": 1
+		"common": 3
 	},
 	{
 		"name": "voipbl",
