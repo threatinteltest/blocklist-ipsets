@@ -18,6 +18,12 @@
 		"common": 1
 	},
 	{
+		"name": "bds_atif",
+		"category": "reputation",
+		"ips": 8912,
+		"common": 1
+	},
+	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 3287,
@@ -50,8 +56,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 58939,
-		"common": 260
+		"ips": 59232,
+		"common": 261
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -62,7 +68,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11541,
+		"ips": 11539,
 		"common": 14
 	},
 	{
@@ -152,7 +158,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19145,
+		"ips": 19117,
+		"common": 2
+	},
+	{
+		"name": "dataplane_sshpwauth",
+		"category": "attacks",
+		"ips": 17535,
 		"common": 1
 	},
 	{
@@ -165,7 +177,7 @@
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 312370,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dronebl_autorooting_worms",
@@ -236,14 +248,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652634549,
+		"ips": 652634550,
 		"common": 4
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 69908,
-		"common": 260
+		"ips": 70199,
+		"common": 261
 	},
 	{
 		"name": "firehol_level3",
@@ -254,13 +266,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9202074,
-		"common": 30
+		"ips": 9202073,
+		"common": 31
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 33434,
+		"ips": 33433,
 		"common": 12
 	},
 	{
@@ -279,7 +291,7 @@
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 21227,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -418,6 +430,12 @@
 		"category": "reputation",
 		"ips": 29439,
 		"common": 2
+	},
+	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 3579,
+		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
