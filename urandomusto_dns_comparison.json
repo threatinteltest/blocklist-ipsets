@@ -26,55 +26,79 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 57975,
-		"common": 1
+		"ips": 58037,
+		"common": 2
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8874,
-		"common": 1
+		"ips": 8868,
+		"common": 2
 	},
 	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 48537,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
 		"ips": 487,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "dataplane_dnsrdany",
 		"category": "attacks",
 		"ips": 177,
+		"common": 2
+	},
+	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 29184,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 68661,
-		"common": 1
+		"ips": 68723,
+		"common": 2
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 157280,
+		"common": 2
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34740554,
 		"common": 1
 	},
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1824,
+		"ips": 1823,
 		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656057251,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 48646,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346612186,
 		"common": 1
 	},
 	{
@@ -90,10 +114,22 @@
 		"common": 1
 	},
 	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512264,
+		"common": 1
+	},
+	{
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 6383,
 		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 29017,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_ntp",

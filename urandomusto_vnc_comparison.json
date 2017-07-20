@@ -9,18 +9,18 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 8912,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 57975,
+		"ips": 58037,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 14153,
+		"ips": 14165,
 		"common": 1
 	},
 	{
@@ -104,7 +104,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 68661,
+		"ips": 68723,
 		"common": 3
 	},
 	{
@@ -122,7 +122,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1824,
+		"ips": 1823,
 		"common": 2
 	},
 	{
@@ -144,10 +144,16 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762691607,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346612186,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_level3",
@@ -159,13 +165,13 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "packetmail",
@@ -177,7 +183,7 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2327,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -192,10 +198,22 @@
 		"common": 2
 	},
 	{
+		"name": "trustedsec_atif",
+		"category": "reputation",
+		"ips": 1681,
+		"common": 1
+	},
+	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29017,
-		"common": 5
+		"common": 6
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 442,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
