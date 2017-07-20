@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11134,
+		"ips": 11114,
 		"common": 124
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40287,
+		"ips": 40288,
 		"common": 3415
 	},
 	{
@@ -284,19 +284,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 157035,
+		"ips": 157017,
 		"common": 235
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9201649,
+		"ips": 9201625,
 		"common": 686
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27288,
+		"ips": 27289,
 		"common": 3422
 	},
 	{
@@ -464,8 +464,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31828,
-		"common": 71
+		"ips": 31826,
+		"common": 72
 	},
 	{
 		"name": "nullsecure",
@@ -482,8 +482,14 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 226,
+		"ips": 258,
 		"common": 7
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2306,
+		"common": 1
 	},
 	{
 		"name": "php_commenters",
@@ -704,26 +710,26 @@
 	{
 		"name": "ri_web_proxies",
 		"category": "anonymizers",
-		"ips": 144,
-		"common": 57
+		"ips": 142,
+		"common": 46
 	},
 	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 454,
-		"common": 155
+		"ips": 499,
+		"common": 167
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 5680,
-		"common": 1361
+		"ips": 5670,
+		"common": 1353
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 2016,
-		"common": 651
+		"ips": 1986,
+		"common": 631
 	},
 	{
 		"name": "sblam",
