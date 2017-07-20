@@ -236,7 +236,7 @@
 	{
 		"name": "cidr_report_bogons",
 		"category": "unrouteable",
-		"ips": 601220552,
+		"ips": 601198536,
 		"common": 8
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 448,
+		"ips": 439,
 		"common": 7
 	},
 	{
@@ -368,13 +368,13 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 456,
+		"ips": 457,
 		"common": 1
 	},
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6658,
+		"ips": 6638,
 		"common": 542
 	},
 	{
@@ -386,7 +386,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 458119,
+		"ips": 458193,
 		"common": 3632
 	},
 	{
@@ -518,7 +518,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40150,
+		"ips": 40193,
 		"common": 2480
 	},
 	{
@@ -548,7 +548,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27215,
+		"ips": 27206,
 		"common": 2049
 	},
 	{
@@ -1221,24 +1221,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 5
+		"common": 10
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3592,
-		"common": 285
+		"ips": 3596,
+		"common": 287
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8933,
+		"ips": 8930,
 		"common": 544
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5597,
+		"ips": 5588,
 		"common": 435
 	},
 	{
@@ -1293,18 +1293,18 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 42
+		"common": 43
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 329,
-		"common": 100
+		"ips": 324,
+		"common": 99
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5317,
+		"ips": 5310,
 		"common": 487
 	},
 	{
@@ -1382,26 +1382,26 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 911,
+		"ips": 909,
 		"common": 556
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 957,
+		"ips": 955,
 		"common": 571
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 1974,
+		"ips": 1971,
 		"common": 729
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1181,
-		"common": 610
+		"ips": 1176,
+		"common": 609
 	},
 	{
 		"name": "trustedsec_atif",
@@ -1420,12 +1420,6 @@
 		"category": "attacks",
 		"ips": 258,
 		"common": 7
-	},
-	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 260,
-		"common": 1
 	},
 	{
 		"name": "voipbl",

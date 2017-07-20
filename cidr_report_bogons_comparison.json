@@ -242,7 +242,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 458119,
+		"ips": 458193,
 		"common": 12
 	},
 	{
@@ -357,7 +357,13 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24721471,
-		"common": 1
+		"common": 513
+	},
+	{
+		"name": "et_spamhaus",
+		"category": "attacks",
+		"ips": 24715264,
+		"common": 512
 	},
 	{
 		"name": "firehol_abusers_1d",
@@ -375,7 +381,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652634543,
-		"common": 600537482
+		"common": 600515466
 	},
 	{
 		"name": "firehol_level2",
@@ -393,7 +399,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9203119,
-		"common": 617712
+		"common": 618224
 	},
 	{
 		"name": "firehol_webclient",
@@ -411,7 +417,7 @@
 		"name": "fullbogons",
 		"category": "unrouteable",
 		"ips": 627319432,
-		"common": 600537480
+		"common": 600514952
 	},
 	{
 		"name": "gofferje_sip",
@@ -531,13 +537,13 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656057251,
-		"common": 563861667
+		"common": 563839139
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
 		"category": "unrouteable",
 		"ips": 601220552,
-		"common": 601220552
+		"common": 601198024
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -573,7 +579,7 @@
 		"name": "iblocklist_hijacked",
 		"category": "attacks",
 		"ips": 8752128,
-		"common": 616704
+		"common": 617216
 	},
 	{
 		"name": "iblocklist_iana_multicast",
@@ -609,7 +615,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346612186,
-		"common": 442429
+		"common": 442941
 	},
 	{
 		"name": "iblocklist_level3",
@@ -630,6 +636,12 @@
 		"common": 5632
 	},
 	{
+		"name": "iblocklist_spamhaus_drop",
+		"category": "attacks",
+		"ips": 24715264,
+		"common": 512
+	},
+	{
 		"name": "iblocklist_spider",
 		"category": "reputation",
 		"ips": 859064,
@@ -639,13 +651,13 @@
 		"name": "iblocklist_spyware",
 		"category": "reputation",
 		"ips": 338526,
-		"common": 917
+		"common": 918
 	},
 	{
 		"name": "iblocklist_webexploit",
 		"category": "reputation",
 		"ips": 15413,
-		"common": 37
+		"common": 40
 	},
 	{
 		"name": "iblocklist_yoyo_adservers",
@@ -663,7 +675,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 331
+		"common": 333
 	},
 	{
 		"name": "lashback_ubl",
@@ -687,7 +699,7 @@
 		"name": "nt_malware_http",
 		"category": "attacks",
 		"ips": 69,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "nullsecure",
@@ -792,6 +804,12 @@
 		"common": 2707
 	},
 	{
+		"name": "spamhaus_drop",
+		"category": "reputation",
+		"ips": 24720384,
+		"common": 512
+	},
+	{
 		"name": "sslbl_aggressive",
 		"category": "malware",
 		"ips": 2867,
@@ -807,7 +825,7 @@
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 233894,
-		"common": 118
+		"common": 119
 	},
 	{
 		"name": "stopforumspam_1d",
@@ -825,7 +843,7 @@
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 334664,
-		"common": 215
+		"common": 217
 	},
 	{
 		"name": "stopforumspam_7d",

@@ -230,7 +230,7 @@
 	{
 		"name": "cidr_report_bogons",
 		"category": "unrouteable",
-		"ips": 601220552,
+		"ips": 601198536,
 		"common": 2
 	},
 	{
@@ -344,8 +344,8 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 448,
-		"common": 24
+		"ips": 439,
+		"common": 25
 	},
 	{
 		"name": "dataplane_dnsrdany",
@@ -368,7 +368,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 363,
+		"ips": 364,
 		"common": 51
 	},
 	{
@@ -392,13 +392,13 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 456,
+		"ips": 457,
 		"common": 4
 	},
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6658,
+		"ips": 6638,
 		"common": 20
 	},
 	{
@@ -416,7 +416,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 458119,
+		"ips": 458193,
 		"common": 18
 	},
 	{
@@ -524,7 +524,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40150,
+		"ips": 40193,
 		"common": 21
 	},
 	{
@@ -554,7 +554,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27215,
+		"ips": 27206,
 		"common": 9
 	},
 	{
@@ -1130,25 +1130,25 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 911,
+		"ips": 909,
 		"common": 20
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 957,
+		"ips": 955,
 		"common": 20
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 1974,
+		"ips": 1971,
 		"common": 20
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1181,
+		"ips": 1176,
 		"common": 20
 	},
 	{
@@ -1172,7 +1172,7 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 159,
+		"ips": 161,
 		"common": 25
 	},
 	{
@@ -1198,6 +1198,18 @@
 		"category": "attacks",
 		"ips": 195,
 		"common": 8
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 153,
+		"common": 4
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 446,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
