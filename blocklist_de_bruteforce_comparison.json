@@ -1,8 +1,14 @@
 [
 	{
+		"name": "anonymous",
+		"category": "geolocation",
+		"ips": 6415,
+		"common": 1
+	},
+	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 212,
+		"ips": 215,
 		"common": 6
 	},
 	{
@@ -32,19 +38,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 57188,
-		"common": 344
+		"ips": 57096,
+		"common": 343
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8880,
-		"common": 344
+		"ips": 8879,
+		"common": 343
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 186,
+		"ips": 184,
 		"common": 8
 	},
 	{
@@ -141,7 +147,7 @@
 		"name": "cybercrime",
 		"category": "malware",
 		"ips": 29727,
-		"common": 55
+		"common": 54
 	},
 	{
 		"name": "dataplane_dnsrd",
@@ -210,6 +216,12 @@
 		"common": 68
 	},
 	{
+		"name": "firehol_anonymous",
+		"category": "anonymizers",
+		"ips": 40269,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652634546,
@@ -218,8 +230,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 67342,
-		"common": 344
+		"ips": 67251,
+		"common": 343
 	},
 	{
 		"name": "firehol_level3",
@@ -231,13 +243,13 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9201661,
-		"common": 112
+		"common": 111
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 33363,
-		"common": 55
+		"common": 54
 	},
 	{
 		"name": "firehol_webserver",
@@ -279,7 +291,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656057251,
-		"common": 24
+		"common": 23
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -321,7 +333,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346612186,
-		"common": 31
+		"common": 30
 	},
 	{
 		"name": "iblocklist_level3",
@@ -386,7 +398,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 33689,
+		"ips": 33573,
 		"common": 7
 	},
 	{
@@ -435,7 +447,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -453,7 +465,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 14
+		"common": 13
 	},
 	{
 		"name": "sorbs_web",
