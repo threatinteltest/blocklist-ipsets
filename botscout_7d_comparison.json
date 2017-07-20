@@ -68,25 +68,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6650,
+		"ips": 6662,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 8135,
+		"ips": 8133,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24447,
+		"ips": 24451,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12418,
+		"ips": 12419,
 		"common": 2
 	},
 	{
@@ -470,7 +470,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40394,
+		"ips": 40393,
 		"common": 1006
 	},
 	{
@@ -500,7 +500,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27298,
+		"ips": 27299,
 		"common": 676
 	},
 	{
@@ -1149,24 +1149,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 6
+		"common": 2
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3513,
+		"ips": 3524,
 		"common": 135
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8946,
+		"ips": 8947,
 		"common": 190
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5635,
+		"ips": 5638,
 		"common": 187
 	},
 	{
@@ -1221,13 +1221,13 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 24
+		"common": 30
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 380,
-		"common": 73
+		"ips": 381,
+		"common": 74
 	},
 	{
 		"name": "sslproxies_30d",
@@ -1310,25 +1310,25 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 907,
-		"common": 453
+		"ips": 905,
+		"common": 452
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 952,
+		"ips": 954,
 		"common": 465
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 1969,
+		"ips": 1971,
 		"common": 485
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1160,
+		"ips": 1162,
 		"common": 485
 	},
 	{
@@ -1346,8 +1346,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 208,
+		"ips": 253,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 126,
+		"common": 2
 	},
 	{
 		"name": "voipbl",
