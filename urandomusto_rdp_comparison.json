@@ -15,7 +15,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 9050,
-		"common": 52
+		"common": 53
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -80,37 +80,37 @@
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 32208,
+		"ips": 32262,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 126492,
+		"ips": 126493,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 67496,
+		"ips": 67493,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 37593,
+		"ips": 37639,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 165769,
+		"ips": 165759,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 86217,
+		"ips": 86201,
 		"common": 2
 	},
 	{
@@ -134,7 +134,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 361,
+		"ips": 362,
 		"common": 2
 	},
 	{
@@ -146,7 +146,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 465,
+		"ips": 463,
 		"common": 1
 	},
 	{
@@ -189,7 +189,7 @@
 		"name": "dshield_top_1000",
 		"category": "attacks",
 		"ips": 885,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "et_block",
@@ -218,13 +218,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 41859,
+		"ips": 41939,
 		"common": 2
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 274720,
+		"ips": 274718,
 		"common": 4
 	},
 	{
@@ -243,7 +243,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 155987,
-		"common": 49
+		"common": 50
 	},
 	{
 		"name": "firehol_level4",
@@ -254,7 +254,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 33560,
+		"ips": 33561,
 		"common": 1
 	},
 	{
@@ -315,7 +315,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346611986,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "iblocklist_level3",
@@ -453,7 +453,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 11824,
-		"common": 36
+		"common": 38
 	},
 	{
 		"name": "threatcrowd",
@@ -471,13 +471,19 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29017,
-		"common": 48
+		"common": 50
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 287,
+		"ips": 306,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 285,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_vnc",
