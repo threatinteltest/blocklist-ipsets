@@ -2,13 +2,19 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 82,
-		"common": 1
+		"ips": 83,
+		"common": 2
 	},
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 363,
+		"common": 2
+	},
+	{
+		"name": "bambenek_hesperbot",
+		"category": "malware",
+		"ips": 1,
 		"common": 1
 	},
 	{
@@ -26,7 +32,7 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 126,
+		"ips": 129,
 		"common": 1
 	},
 	{
@@ -39,7 +45,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652603800,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
@@ -81,6 +87,12 @@
 		"name": "hphosts_wrz",
 		"category": "reputation",
 		"ips": 783,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227983183,
 		"common": 1
 	}
 ]
