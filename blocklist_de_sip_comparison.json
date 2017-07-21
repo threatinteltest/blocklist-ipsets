@@ -6,9 +6,33 @@
 		"common": 4
 	},
 	{
+		"name": "bds_atif",
+		"category": "reputation",
+		"ips": 9050,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 613,
+		"common": 1
+	},
+	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 3263,
+		"common": 2
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 2196,
+		"common": 1
+	},
+	{
+		"name": "bi_ssh_2_30d",
+		"category": "attacks",
+		"ips": 1739,
 		"common": 1
 	},
 	{
@@ -20,14 +44,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 64409,
+		"ips": 64643,
 		"common": 196
+	},
+	{
+		"name": "blocklist_de_strongips",
+		"category": "attacks",
+		"ips": 166,
+		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13185,
-		"common": 21
+		"ips": 13287,
+		"common": 20
 	},
 	{
 		"name": "ciarmy",
@@ -80,7 +110,7 @@
 	{
 		"name": "cruzit_web_attacks",
 		"category": "attacks",
-		"ips": 7220,
+		"ips": 7222,
 		"common": 1
 	},
 	{
@@ -98,7 +128,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 361,
+		"ips": 360,
 		"common": 10
 	},
 	{
@@ -111,6 +141,12 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 18773,
+		"common": 2
+	},
+	{
+		"name": "dataplane_sshpwauth",
+		"category": "attacks",
+		"ips": 17320,
 		"common": 1
 	},
 	{
@@ -123,6 +159,12 @@
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 312354,
+		"common": 1
+	},
+	{
+		"name": "dronebl_autorooting_worms",
+		"category": "attacks",
+		"ips": 1046,
 		"common": 1
 	},
 	{
@@ -176,7 +218,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 72613,
+		"ips": 72843,
 		"common": 196
 	},
 	{
@@ -188,7 +230,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9281911,
+		"ips": 9282014,
 		"common": 29
 	},
 	{
@@ -214,6 +256,12 @@
 		"category": "attacks",
 		"ips": 1773,
 		"common": 3
+	},
+	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 21267,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
