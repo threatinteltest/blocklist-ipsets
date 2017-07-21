@@ -3,108 +3,102 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 63070,
-		"common": 178
+		"common": 177
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 8827,
-		"common": 178
+		"common": 177
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 47224,
-		"common": 178
+		"common": 177
 	},
 	{
-		"name": "cleantalk_30d",
-		"category": "abuse",
-		"ips": 126340,
-		"common": 1
-	},
-	{
-		"name": "cleantalk_updated_30d",
-		"category": "abuse",
-		"ips": 165504,
-		"common": 1
-	},
-	{
-		"name": "dataplane_sipquery",
-		"category": "attacks",
-		"ips": 362,
-		"common": 1
-	},
-	{
-		"name": "firehol_abusers_30d",
-		"category": "abuse",
-		"ips": 274412,
-		"common": 1
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 48005,
+		"common": 2
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 73428,
-		"common": 178
+		"common": 177
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 155117,
+		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34732704,
-		"common": 179
+		"common": 178
 	},
 	{
-		"name": "iblocklist_bogons",
-		"category": "unrouteable",
-		"ips": 656132259,
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 48646,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227983183,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346612179,
 		"common": 1
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 138917095,
-		"common": 178
-	},
-	{
-		"name": "jigsaw_malware",
-		"category": "malware",
-		"ips": 59614,
-		"common": 1
-	},
-	{
-		"name": "packetmail",
-		"category": "reputation",
-		"ips": 3300,
-		"common": 1
+		"common": 177
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2268,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 179
+		"common": 178
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 2
+		"common": 7
 	},
 	{
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 537175,
-		"common": 178
+		"common": 177
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 29017,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 178,
+		"ips": 179,
 		"common": 177
 	}
 ]
