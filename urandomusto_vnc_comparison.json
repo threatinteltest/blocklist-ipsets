@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32352,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "bds_atif",
@@ -48,22 +48,22 @@
 		"common": 2
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 62964,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 8852,
+		"common": 1
+	},
+	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 47932,
 		"common": 3
-	},
-	{
-		"name": "cleantalk_30d",
-		"category": "abuse",
-		"ips": 126222,
-		"common": 1
-	},
-	{
-		"name": "cleantalk_updated_30d",
-		"category": "abuse",
-		"ips": 165310,
-		"common": 1
 	},
 	{
 		"name": "dataplane_dnsrd",
@@ -111,18 +111,12 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 28928,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 15616,
-		"common": 1
-	},
-	{
-		"name": "firehol_abusers_30d",
-		"category": "abuse",
-		"ips": 274853,
 		"common": 1
 	},
 	{
@@ -135,19 +129,19 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 73327,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 155874,
+		"ips": 156267,
 		"common": 3
 	},
 	{
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 2361,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -214,12 +208,6 @@
 		"category": "reputation",
 		"ips": 2301,
 		"common": 2
-	},
-	{
-		"name": "taichung",
-		"category": "attacks",
-		"ips": 11795,
-		"common": 1
 	},
 	{
 		"name": "threatcrowd",
