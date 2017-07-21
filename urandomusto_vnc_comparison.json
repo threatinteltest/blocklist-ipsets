@@ -3,13 +3,13 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32352,
-		"common": 5
+		"common": 7
 	},
 	{
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 9050,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -57,42 +57,48 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 48711,
-		"common": 5
+		"common": 7
 	},
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
 		"ips": 341,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "dataplane_dnsversion",
 		"category": "attacks",
 		"ips": 220,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 361,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 18773,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
 		"ips": 460,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dragon_http",
 		"category": "attacks",
 		"ips": 59136,
+		"common": 1
+	},
+	{
+		"name": "dronebl_auto_botnets",
+		"category": "reputation",
+		"ips": 312354,
 		"common": 1
 	},
 	{
@@ -147,7 +153,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 155970,
-		"common": 5
+		"common": 7
 	},
 	{
 		"name": "firehol_webserver",
@@ -165,13 +171,13 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656132259,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 48646,
-		"common": 5
+		"common": 7
 	},
 	{
 		"name": "iblocklist_edu",
@@ -237,12 +243,18 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2256,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
+		"common": 1
+	},
+	{
+		"name": "sorbs_recent_spam",
+		"category": "spam",
+		"ips": 545338,
 		"common": 1
 	},
 	{
@@ -261,18 +273,18 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29017,
-		"common": 6
+		"common": 8
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 175,
+		"ips": 176,
 		"common": 1
 	},
 	{
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 29833,
-		"common": 3
+		"common": 4
 	}
 ]
