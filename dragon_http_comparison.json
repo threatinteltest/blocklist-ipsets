@@ -194,7 +194,7 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2999,
+		"ips": 2983,
 		"common": 1
 	},
 	{
@@ -380,7 +380,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 361,
+		"ips": 360,
 		"common": 11
 	},
 	{
@@ -399,7 +399,7 @@
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
 		"ips": 454,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "dm_tor",
@@ -416,7 +416,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 459822,
+		"ips": 459963,
 		"common": 216
 	},
 	{
@@ -494,7 +494,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40416,
+		"ips": 40417,
 		"common": 9
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 155344,
+		"ips": 155355,
 		"common": 59136
 	},
 	{
@@ -524,7 +524,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27391,
+		"ips": 27392,
 		"common": 3
 	},
 	{
@@ -758,7 +758,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 22946,
+		"ips": 23305,
 		"common": 3
 	},
 	{
@@ -962,25 +962,25 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 892,
+		"ips": 894,
 		"common": 2
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 945,
+		"ips": 946,
 		"common": 2
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 1966,
+		"ips": 1968,
 		"common": 7
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1153,
+		"ips": 1152,
 		"common": 3
 	},
 	{
@@ -998,13 +998,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 121,
+		"ips": 137,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 218,
+		"ips": 271,
 		"common": 1
 	},
 	{
@@ -1016,14 +1016,20 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 137,
+		"ips": 150,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 161,
+		"ips": 164,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_vnc",
+		"category": "attacks",
+		"ips": 20,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

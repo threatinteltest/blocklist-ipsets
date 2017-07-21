@@ -236,14 +236,14 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 544,
+		"ips": 543,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2999,
-		"common": 15
+		"ips": 2983,
+		"common": 13
 	},
 	{
 		"name": "blocklist_de_mail",
@@ -476,7 +476,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 361,
+		"ips": 360,
 		"common": 1
 	},
 	{
@@ -524,7 +524,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 459822,
+		"ips": 459963,
 		"common": 476
 	},
 	{
@@ -574,6 +574,12 @@
 		"category": "malware",
 		"ips": 129875,
 		"common": 43
+	},
+	{
+		"name": "dshield_top_1000",
+		"category": "attacks",
+		"ips": 876,
+		"common": 1
 	},
 	{
 		"name": "dyndns_ponmocup",
@@ -674,7 +680,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40416,
+		"ips": 40417,
 		"common": 140
 	},
 	{
@@ -692,8 +698,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 155344,
-		"common": 992
+		"ips": 155355,
+		"common": 993
 	},
 	{
 		"name": "firehol_level4",
@@ -704,7 +710,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27391,
+		"ips": 27392,
 		"common": 66
 	},
 	{
@@ -1058,8 +1064,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 22946,
-		"common": 47
+		"ips": 23305,
+		"common": 44
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1340,7 +1346,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3598,
+		"ips": 3607,
 		"common": 9
 	},
 	{
@@ -1352,7 +1358,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5680,
+		"ips": 5682,
 		"common": 10
 	},
 	{
@@ -1412,13 +1418,13 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5312,
+		"ips": 5313,
 		"common": 12
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1334,
+		"ips": 1335,
 		"common": 2
 	},
 	{
@@ -1490,25 +1496,25 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 892,
+		"ips": 894,
 		"common": 10
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 945,
+		"ips": 946,
 		"common": 11
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 1966,
+		"ips": 1968,
 		"common": 16
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1153,
+		"ips": 1152,
 		"common": 12
 	},
 	{
@@ -1526,7 +1532,19 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 121,
+		"ips": 137,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 271,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 157,
 		"common": 1
 	},
 	{
