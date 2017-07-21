@@ -2,7 +2,7 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 110,
+		"ips": 112,
 		"common": 1
 	},
 	{
@@ -32,8 +32,8 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 120,
-		"common": 1
+		"ips": 115,
+		"common": 2
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -62,14 +62,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9281489,
+		"ips": 9281576,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34732771,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "hphosts_ats",
@@ -114,6 +114,12 @@
 		"common": 3
 	},
 	{
+		"name": "iblocklist_bogons",
+		"category": "unrouteable",
+		"ips": 656057251,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762690956,
@@ -129,7 +135,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "ransomware_locky_c2",
