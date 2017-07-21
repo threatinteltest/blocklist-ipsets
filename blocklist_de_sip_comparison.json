@@ -20,14 +20,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 64984,
-		"common": 181
+		"ips": 64874,
+		"common": 204
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12474,
-		"common": 17
+		"ips": 12523,
+		"common": 18
 	},
 	{
 		"name": "ciarmy",
@@ -134,8 +134,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 74447,
-		"common": 181
+		"ips": 74336,
+		"common": 204
 	},
 	{
 		"name": "firehol_level3",
@@ -146,8 +146,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9285356,
-		"common": 24
+		"ips": 9285408,
+		"common": 25
 	},
 	{
 		"name": "firehol_webclient",
@@ -159,7 +159,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740779,
-		"common": 44
+		"common": 48
 	},
 	{
 		"name": "gofferje_sip",
@@ -198,6 +198,12 @@
 		"common": 2
 	},
 	{
+		"name": "iblocklist_exclusions",
+		"category": "reputation",
+		"ips": 7427,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_isp_aol",
 		"category": "organizations",
 		"ips": 6627584,
@@ -225,7 +231,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762690956,
-		"common": 18
+		"common": 20
 	},
 	{
 		"name": "iblocklist_level2",
@@ -237,7 +243,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 138799735,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -249,7 +255,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4243876,
-		"common": 1
+		"common": 9
 	},
 	{
 		"name": "iblocklist_spyware",
@@ -273,13 +279,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 44
+		"common": 48
 	},
 	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 24
+		"common": 25
 	},
 	{
 		"name": "sorbs_noserver",
@@ -320,7 +326,7 @@
 	{
 		"name": "voipbl",
 		"category": "attacks",
-		"ips": 29833,
-		"common": 66
+		"ips": 29862,
+		"common": 71
 	}
 ]
