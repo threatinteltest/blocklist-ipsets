@@ -68,7 +68,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24498,
+		"ips": 24496,
 		"common": 2
 	},
 	{
@@ -98,7 +98,7 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 568,
+		"ips": 576,
 		"common": 23
 	},
 	{
@@ -116,7 +116,7 @@
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 221,
+		"ips": 222,
 		"common": 19
 	},
 	{
@@ -194,13 +194,13 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 1121,
+		"ips": 1118,
 		"common": 39
 	},
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 48528,
+		"ips": 48711,
 		"common": 15
 	},
 	{
@@ -320,14 +320,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 18874,
-		"common": 343
+		"ips": 18868,
+		"common": 346
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 17426,
-		"common": 269
+		"ips": 17419,
+		"common": 272
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -356,7 +356,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 462426,
+		"ips": 462425,
 		"common": 267
 	},
 	{
@@ -446,7 +446,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40657,
+		"ips": 40767,
 		"common": 838
 	},
 	{
@@ -464,7 +464,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652603824,
+		"ips": 652603833,
 		"common": 71
 	},
 	{
@@ -476,7 +476,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 155785,
+		"ips": 155955,
 		"common": 243
 	},
 	{
@@ -1094,20 +1094,20 @@
 	{
 		"name": "ri_connect_proxies_1d",
 		"category": "anonymizers",
-		"ips": 267,
-		"common": 5
+		"ips": 197,
+		"common": 3
 	},
 	{
 		"name": "ri_connect_proxies_30d",
 		"category": "anonymizers",
-		"ips": 2831,
-		"common": 32
+		"ips": 2807,
+		"common": 31
 	},
 	{
 		"name": "ri_connect_proxies_7d",
 		"category": "anonymizers",
-		"ips": 989,
-		"common": 13
+		"ips": 909,
+		"common": 12
 	},
 	{
 		"name": "ri_web_proxies",
@@ -1256,8 +1256,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5545,
-		"common": 285
+		"ips": 5713,
+		"common": 287
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1298,7 +1298,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 9812,
+		"ips": 9811,
 		"common": 110
 	},
 	{
@@ -1346,26 +1346,32 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 144,
+		"ips": 152,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 234,
-		"common": 7
+		"ips": 238,
+		"common": 9
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 159,
-		"common": 6
+		"ips": 167,
+		"common": 7
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 285,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 158,
-		"common": 3
+		"ips": 151,
+		"common": 4
 	},
 	{
 		"name": "urlvir",
