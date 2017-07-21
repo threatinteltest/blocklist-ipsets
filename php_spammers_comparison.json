@@ -24,6 +24,12 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 60797,
+		"common": 12
+	},
+	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
 		"ips": 338,
@@ -32,7 +38,7 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 44581,
+		"ips": 44862,
 		"common": 8
 	},
 	{
@@ -212,14 +218,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40405,
+		"ips": 40403,
 		"common": 39
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 18614,
-		"common": 2
+		"ips": 70723,
+		"common": 14
 	},
 	{
 		"name": "firehol_level3",
@@ -236,7 +242,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27389,
+		"ips": 27387,
 		"common": 20
 	},
 	{
@@ -411,24 +417,24 @@
 		"name": "proxylists",
 		"category": "anonymizers",
 		"ips": 877,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2089,
+		"ips": 2068,
 		"common": 12
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 4025,
+		"ips": 4026,
 		"common": 12
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 3739,
+		"ips": 3729,
 		"common": 12
 	},
 	{
@@ -468,28 +474,22 @@
 		"common": 1
 	},
 	{
-		"name": "proxz",
-		"category": "anonymizers",
-		"ips": 20,
-		"common": 1
-	},
-	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 292,
+		"ips": 297,
 		"common": 3
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 1126,
+		"ips": 1129,
 		"common": 7
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 964,
-		"common": 7
+		"ips": 963,
+		"common": 6
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -554,13 +554,13 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3632,
+		"ips": 3637,
 		"common": 7
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8965,
+		"ips": 8963,
 		"common": 8
 	},
 	{
@@ -602,13 +602,13 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 399,
+		"ips": 398,
 		"common": 4
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5315,
+		"ips": 5314,
 		"common": 8
 	},
 	{
