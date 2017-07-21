@@ -38,14 +38,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 60701,
-		"common": 338
+		"ips": 60896,
+		"common": 343
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8823,
-		"common": 338
+		"ips": 8830,
+		"common": 343
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -57,7 +57,7 @@
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 12986,
-		"common": 93
+		"common": 94
 	},
 	{
 		"name": "ciarmy",
@@ -135,13 +135,13 @@
 		"name": "cruzit_web_attacks",
 		"category": "attacks",
 		"ips": 7220,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "cybercrime",
 		"category": "malware",
 		"ips": 29867,
-		"common": 51
+		"common": 52
 	},
 	{
 		"name": "dataplane_dnsrd",
@@ -212,8 +212,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 71042,
-		"common": 338
+		"ips": 71236,
+		"common": 343
 	},
 	{
 		"name": "firehol_level3",
@@ -225,19 +225,19 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9281633,
-		"common": 106
+		"common": 107
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 33501,
-		"common": 51
+		"common": 52
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34732704,
-		"common": 80
+		"common": 82
 	},
 	{
 		"name": "gofferje_sip",
@@ -273,7 +273,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656132259,
-		"common": 23
+		"common": 24
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -285,7 +285,7 @@
 		"name": "iblocklist_cruzit_web_attacks",
 		"category": "attacks",
 		"ips": 7193,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "iblocklist_edu",
@@ -411,7 +411,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 78
+		"common": 80
 	},
 	{
 		"name": "sblam",
@@ -426,10 +426,16 @@
 		"common": 2
 	},
 	{
+		"name": "sorbs_anonymizers",
+		"category": "spam",
+		"ips": 609175,
+		"common": 1
+	},
+	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 26
+		"common": 27
 	},
 	{
 		"name": "sorbs_noserver",
