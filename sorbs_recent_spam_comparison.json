@@ -8,13 +8,19 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 90,
+		"ips": 87,
 		"common": 1
 	},
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 355,
+		"common": 1
+	},
+	{
+		"name": "bambenek_pykspa",
+		"category": "malware",
+		"ips": 8,
 		"common": 1
 	},
 	{
@@ -38,7 +44,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 584,
+		"ips": 581,
 		"common": 10
 	},
 	{
@@ -122,14 +128,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 63668,
-		"common": 3042
+		"ips": 63321,
+		"common": 3026
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8845,
-		"common": 4
+		"ips": 8244,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -146,7 +152,7 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 557,
+		"ips": 551,
 		"common": 4
 	},
 	{
@@ -158,14 +164,14 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 47745,
-		"common": 2957
+		"ips": 8244,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 14231,
-		"common": 72
+		"ips": 14178,
+		"common": 71
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -464,7 +470,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 459439,
+		"ips": 459448,
 		"common": 7895
 	},
 	{
@@ -740,8 +746,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 74021,
-		"common": 3081
+		"ips": 73679,
+		"common": 3065
 	},
 	{
 		"name": "firehol_level3",
@@ -1479,13 +1485,13 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 14
+		"common": 32
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3656,
-		"common": 985
+		"ips": 3654,
+		"common": 986
 	},
 	{
 		"name": "socks_proxy_30d",
@@ -1569,12 +1575,12 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 402,
+		"ips": 401,
 		"common": 4
 	},
 	{
