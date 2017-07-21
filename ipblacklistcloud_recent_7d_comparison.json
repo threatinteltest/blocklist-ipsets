@@ -14,8 +14,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13198,
-		"common": 24
+		"ips": 13194,
+		"common": 33
 	},
 	{
 		"name": "cleantalk_1d",
@@ -27,7 +27,7 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 126641,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "cleantalk_7d",
@@ -45,7 +45,7 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 166038,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "cleantalk_updated_7d",
@@ -75,7 +75,7 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 274901,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "firehol_anonymous",
@@ -92,8 +92,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9281867,
-		"common": 50
+		"ips": 9281863,
+		"common": 59
 	},
 	{
 		"name": "firehol_proxies",
@@ -111,25 +111,25 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34732800,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_isp_att",
 		"category": "organizations",
 		"ips": 55845128,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "iblocklist_isp_charter",
 		"category": "organizations",
 		"ips": 6138112,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "iblocklist_isp_qwest",
@@ -168,6 +168,12 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_rangetest",
+		"category": "reputation",
+		"ips": 4243876,
+		"common": 1
+	},
+	{
 		"name": "ipblacklistcloud_recent",
 		"category": "abuse",
 		"ips": 32,
@@ -176,14 +182,14 @@
 	{
 		"name": "ipblacklistcloud_recent_1d",
 		"category": "abuse",
-		"ips": 32,
-		"common": 32
+		"ips": 62,
+		"common": 62
 	},
 	{
 		"name": "ipblacklistcloud_recent_30d",
 		"category": "abuse",
-		"ips": 352,
-		"common": 116
+		"ips": 373,
+		"common": 141
 	},
 	{
 		"name": "ipblacklistcloud_top",
@@ -201,7 +207,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "ri_web_proxies",
@@ -249,7 +255,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 36
+		"common": 43
 	},
 	{
 		"name": "sorbs_noserver",
@@ -267,7 +273,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "stopforumspam",
