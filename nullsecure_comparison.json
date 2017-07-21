@@ -120,51 +120,45 @@
 		"common": 3
 	},
 	{
-		"name": "blocklist_de",
-		"category": "attacks",
-		"ips": 60524,
-		"common": 45
-	},
-	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8807,
+		"ips": 8803,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 324,
+		"ips": 325,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 549,
+		"ips": 547,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2977,
+		"ips": 2968,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 44508,
+		"ips": 44581,
 		"common": 21
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 14379,
+		"ips": 14316,
 		"common": 22
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13001,
+		"ips": 13013,
 		"common": 57
 	},
 	{
@@ -404,7 +398,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 461723,
+		"ips": 461898,
 		"common": 339
 	},
 	{
@@ -524,19 +518,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 70021,
-		"common": 70
+		"ips": 18050,
+		"common": 25
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 155653,
+		"ips": 155654,
 		"common": 234
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9281695,
+		"ips": 9281705,
 		"common": 2834
 	},
 	{
@@ -944,8 +938,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3257,
-		"common": 12
+		"ips": 3305,
+		"common": 13
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -1178,7 +1172,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5693,
+		"ips": 5694,
 		"common": 1
 	},
 	{
@@ -1370,13 +1364,13 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 154,
+		"ips": 156,
 		"common": 1
 	},
 	{
-		"name": "urandomusto_telnet",
+		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 447,
+		"ips": 313,
 		"common": 1
 	},
 	{
@@ -1389,7 +1383,7 @@
 		"name": "urandomusto_vnc",
 		"category": "attacks",
 		"ips": 19,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "voipbl",
@@ -1419,12 +1413,6 @@
 		"name": "xroxy_7d",
 		"category": "anonymizers",
 		"ips": 254,
-		"common": 1
-	},
-	{
-		"name": "yoyo_adservers",
-		"category": "organizations",
-		"ips": 12427,
 		"common": 1
 	}
 ]
