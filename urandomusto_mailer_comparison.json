@@ -1,44 +1,44 @@
 [
 	{
-		"name": "bi_any_2_30d",
-		"category": "attacks",
-		"ips": 3287,
-		"common": 1
-	},
-	{
-		"name": "bi_any_2_7d",
-		"category": "attacks",
-		"ips": 2252,
-		"common": 1
-	},
-	{
-		"name": "bi_mail_2_30d",
-		"category": "attacks",
-		"ips": 1387,
-		"common": 1
-	},
-	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 63459,
+		"ips": 63276,
 		"common": 178
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8848,
+		"ips": 8843,
 		"common": 178
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 47617,
+		"ips": 47447,
 		"common": 178
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 126283,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 165417,
+		"common": 1
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 274344,
+		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 73812,
+		"ips": 73632,
 		"common": 178
 	},
 	{
@@ -54,21 +54,21 @@
 		"common": 178
 	},
 	{
+		"name": "jigsaw_malware",
+		"category": "malware",
+		"ips": 59614,
+		"common": 1
+	},
+	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
 		"common": 178
 	},
 	{
-		"name": "stopforumspam_180d",
-		"category": "abuse",
-		"ips": 234565,
-		"common": 1
-	},
-	{
-		"name": "stopforumspam_365d",
-		"category": "abuse",
-		"ips": 335606,
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 6267285,
 		"common": 2
 	},
 	{
@@ -78,15 +78,9 @@
 		"common": 178
 	},
 	{
-		"name": "turris_greylist",
-		"category": "reputation",
-		"ips": 29017,
-		"common": 1
-	},
-	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 190,
-		"common": 175
+		"ips": 180,
+		"common": 177
 	}
 ]
