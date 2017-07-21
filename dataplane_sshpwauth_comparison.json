@@ -68,38 +68,32 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 65134,
-		"common": 4934
+		"ips": 65287,
+		"common": 4936
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8798,
+		"ips": 8803,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 580,
+		"ips": 581,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 48650,
+		"ips": 49177,
 		"common": 12
-	},
-	{
-		"name": "blocklist_de_sip",
-		"category": "attacks",
-		"ips": 236,
-		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 14326,
-		"common": 4898
+		"ips": 14429,
+		"common": 4915
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -362,8 +356,8 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 892,
-		"common": 3
+		"ips": 899,
+		"common": 1
 	},
 	{
 		"name": "esentire_inleet_ru",
@@ -422,7 +416,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40428,
+		"ips": 40412,
 		"common": 227
 	},
 	{
@@ -434,14 +428,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 73339,
-		"common": 4950
+		"ips": 73492,
+		"common": 4952
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 155047,
-		"common": 877
+		"ips": 155060,
+		"common": 876
 	},
 	{
 		"name": "firehol_level4",
@@ -452,13 +446,13 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27382,
+		"ips": 27366,
 		"common": 72
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 33556,
+		"ips": 33558,
 		"common": 83
 	},
 	{
@@ -1028,13 +1022,19 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 278,
-		"common": 42
+		"ips": 402,
+		"common": 66
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 443,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 157,
+		"ips": 152,
 		"common": 3
 	},
 	{
