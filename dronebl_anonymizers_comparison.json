@@ -156,9 +156,15 @@
 		"common": 1887
 	},
 	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 8810,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 343,
+		"ips": 344,
 		"common": 71
 	},
 	{
@@ -170,8 +176,14 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2932,
-		"common": 32
+		"ips": 2937,
+		"common": 34
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 49363,
+		"common": 1780
 	},
 	{
 		"name": "blocklist_de_ssh",
@@ -1124,8 +1136,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 34871,
-		"common": 956
+		"ips": 34824,
+		"common": 943
 	},
 	{
 		"name": "nt_ssh_7d",
