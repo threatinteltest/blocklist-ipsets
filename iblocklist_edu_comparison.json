@@ -194,8 +194,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 62052,
-		"common": 512
+		"ips": 62435,
+		"common": 516
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -218,25 +218,19 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 567,
+		"ips": 570,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3107,
+		"ips": 3115,
 		"common": 20
-	},
-	{
-		"name": "blocklist_de_mail",
-		"category": "attacks",
-		"ips": 46405,
-		"common": 324
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 231,
+		"ips": 232,
 		"common": 1
 	},
 	{
@@ -254,7 +248,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13038,
+		"ips": 13085,
 		"common": 129
 	},
 	{
@@ -818,19 +812,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 72430,
-		"common": 536
+		"ips": 72810,
+		"common": 540
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 158799,
+		"ips": 158800,
 		"common": 3040
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9281657,
+		"ips": 9281702,
 		"common": 179038
 	},
 	{
@@ -1232,8 +1226,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 22798,
-		"common": 243
+		"ips": 22733,
+		"common": 235
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1358,25 +1352,25 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 988,
-		"common": 13
+		"ips": 989,
+		"common": 16
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2084,
+		"ips": 2020,
 		"common": 31
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 3997,
+		"ips": 4004,
 		"common": 75
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 3750,
+		"ips": 3751,
 		"common": 72
 	},
 	{
@@ -1428,22 +1422,28 @@
 		"common": 114
 	},
 	{
+		"name": "proxz",
+		"category": "anonymizers",
+		"ips": 24,
+		"common": 1
+	},
+	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 276,
-		"common": 2
+		"ips": 282,
+		"common": 3
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 1097,
-		"common": 12
+		"ips": 1101,
+		"common": 13
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 959,
-		"common": 11
+		"ips": 962,
+		"common": 12
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -1718,7 +1718,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 9812,
+		"ips": 9813,
 		"common": 41
 	},
 	{
