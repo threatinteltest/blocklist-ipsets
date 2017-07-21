@@ -110,8 +110,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 580,
-		"common": 16
+		"ips": 582,
+		"common": 17
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -224,8 +224,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12872,
-		"common": 163
+		"ips": 12986,
+		"common": 164
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -422,13 +422,13 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 381,
+		"ips": 380,
 		"common": 1
 	},
 	{
 		"name": "dataplane_dnsrdany",
 		"category": "attacks",
-		"ips": 77,
+		"ips": 76,
 		"common": 1
 	},
 	{
@@ -446,7 +446,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 451,
+		"ips": 454,
 		"common": 1
 	},
 	{
@@ -476,7 +476,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 459737,
+		"ips": 459741,
 		"common": 256
 	},
 	{
@@ -674,8 +674,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9281543,
-		"common": 1596
+		"ips": 9281651,
+		"common": 1597
 	},
 	{
 		"name": "firehol_proxies",
@@ -1094,7 +1094,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 22013,
+		"ips": 22174,
 		"common": 8
 	},
 	{
@@ -1526,8 +1526,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 105,
+		"ips": 121,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 168,
+		"common": 1
 	},
 	{
 		"name": "urlvir",

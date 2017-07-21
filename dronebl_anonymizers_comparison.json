@@ -62,7 +62,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 580,
+		"ips": 582,
 		"common": 17
 	},
 	{
@@ -188,8 +188,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12872,
-		"common": 265
+		"ips": 12986,
+		"common": 266
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -315,7 +315,7 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 126507,
-		"common": 33312
+		"common": 33313
 	},
 	{
 		"name": "cleantalk_7d",
@@ -363,7 +363,7 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 165788,
-		"common": 34083
+		"common": 34084
 	},
 	{
 		"name": "cleantalk_updated_7d",
@@ -398,13 +398,13 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 381,
+		"ips": 380,
 		"common": 3
 	},
 	{
 		"name": "dataplane_dnsrdany",
 		"category": "attacks",
-		"ips": 77,
+		"ips": 76,
 		"common": 1
 	},
 	{
@@ -430,6 +430,12 @@
 		"category": "attacks",
 		"ips": 17354,
 		"common": 83
+	},
+	{
+		"name": "dataplane_vncrfb",
+		"category": "attacks",
+		"ips": 454,
+		"common": 1
 	},
 	{
 		"name": "dm_tor",
@@ -489,7 +495,7 @@
 		"name": "dronebl_worms_bots",
 		"category": "malware",
 		"ips": 129865,
-		"common": 7394
+		"common": 7395
 	},
 	{
 		"name": "dshield",
@@ -705,13 +711,13 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 274617,
-		"common": 37176
+		"common": 37177
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
 		"ips": 40537,
-		"common": 19872
+		"common": 19875
 	},
 	{
 		"name": "firehol_level1",
@@ -734,14 +740,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9281543,
+		"ips": 9281651,
 		"common": 4377
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
 		"ips": 27387,
-		"common": 19773
+		"common": 19776
 	},
 	{
 		"name": "firehol_webclient",
@@ -963,7 +969,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 138917095,
-		"common": 10126
+		"common": 10127
 	},
 	{
 		"name": "iblocklist_malc0de",
@@ -1118,8 +1124,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 22013,
-		"common": 1455
+		"ips": 22174,
+		"common": 1466
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1449,19 +1455,19 @@
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
 		"ips": 3612,
-		"common": 2984
+		"common": 2987
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
 		"ips": 8963,
-		"common": 6986
+		"common": 6989
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
 		"ips": 5675,
-		"common": 4626
+		"common": 4629
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -1658,14 +1664,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 210,
-		"common": 2
+		"ips": 218,
+		"common": 7
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 177,
-		"common": 3
+		"ips": 168,
+		"common": 37
 	},
 	{
 		"name": "urandomusto_smb",
@@ -1674,9 +1680,15 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 446,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 163,
+		"ips": 161,
 		"common": 1
 	},
 	{
