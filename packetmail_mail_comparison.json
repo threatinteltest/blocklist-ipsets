@@ -38,19 +38,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 64936,
+		"ips": 64814,
 		"common": 27
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2878,
+		"ips": 2871,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 48854,
+		"ips": 48765,
 		"common": 27
 	},
 	{
@@ -218,7 +218,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40381,
+		"ips": 40377,
 		"common": 12
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 74150,
+		"ips": 74028,
 		"common": 27
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27364,
+		"ips": 27360,
 		"common": 11
 	},
 	{
@@ -300,6 +300,12 @@
 		"common": 6
 	},
 	{
+		"name": "iblocklist_onion_router",
+		"category": "anonymizers",
+		"ips": 6622,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_spamhaus_drop",
 		"category": "attacks",
 		"ips": 24715264,
@@ -326,8 +332,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 33551,
-		"common": 32
+		"ips": 33380,
+		"common": 33
 	},
 	{
 		"name": "packetmail",
@@ -536,13 +542,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8952,
+		"ips": 8948,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5702,
+		"ips": 5699,
 		"common": 1
 	},
 	{
@@ -596,7 +602,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1327,
+		"ips": 1322,
 		"common": 1
 	},
 	{
@@ -656,25 +662,25 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 889,
+		"ips": 890,
 		"common": 1
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 937,
+		"ips": 936,
 		"common": 1
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 1966,
+		"ips": 1968,
 		"common": 1
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1147,
+		"ips": 1149,
 		"common": 1
 	},
 	{
