@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12805,
+		"ips": 12726,
 		"common": 4
 	},
 	{
@@ -116,74 +116,74 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2559,
-		"common": 30
+		"ips": 2558,
+		"common": 32
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 32138,
+		"ips": 32111,
 		"common": 790
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 126460,
+		"ips": 126475,
 		"common": 1972
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 67443,
-		"common": 1564
+		"ips": 67407,
+		"common": 1563
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 583,
+		"ips": 585,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1553,
+		"ips": 1555,
 		"common": 13
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 22321,
+		"ips": 22327,
 		"common": 193
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 6129,
+		"ips": 6127,
 		"common": 139
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 27
+		"common": 29
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 37539,
+		"ips": 37497,
 		"common": 802
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 165674,
+		"ips": 165690,
 		"common": 2046
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 86128,
-		"common": 1633
+		"ips": 86075,
+		"common": 1632
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -272,19 +272,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 41903,
-		"common": 849
+		"ips": 41850,
+		"common": 848
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 274679,
-		"common": 2098
+		"ips": 274646,
+		"common": 2096
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40348,
+		"ips": 40347,
 		"common": 3343
 	},
 	{
@@ -302,7 +302,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 155987,
+		"ips": 155446,
 		"common": 138
 	},
 	{
@@ -543,49 +543,49 @@
 		"name": "php_dictionary",
 		"category": "spam",
 		"ips": 50,
-		"common": 10
+		"common": 6
 	},
 	{
 		"name": "php_dictionary_1d",
-		"category": "spam",
-		"ips": 77,
-		"common": 17
-	},
-	{
-		"name": "php_dictionary_30d",
-		"category": "spam",
-		"ips": 1135,
-		"common": 143
-	},
-	{
-		"name": "php_dictionary_7d",
-		"category": "spam",
-		"ips": 257,
-		"common": 51
-	},
-	{
-		"name": "php_spammers",
 		"category": "spam",
 		"ips": 50,
 		"common": 6
 	},
 	{
+		"name": "php_dictionary_30d",
+		"category": "spam",
+		"ips": 1088,
+		"common": 137
+	},
+	{
+		"name": "php_dictionary_7d",
+		"category": "spam",
+		"ips": 191,
+		"common": 31
+	},
+	{
+		"name": "php_spammers",
+		"category": "spam",
+		"ips": 50,
+		"common": 5
+	},
+	{
 		"name": "php_spammers_1d",
 		"category": "spam",
-		"ips": 79,
-		"common": 11
+		"ips": 50,
+		"common": 5
 	},
 	{
 		"name": "php_spammers_30d",
 		"category": "spam",
-		"ips": 1192,
-		"common": 165
+		"ips": 1134,
+		"common": 155
 	},
 	{
 		"name": "php_spammers_7d",
 		"category": "spam",
-		"ips": 261,
-		"common": 44
+		"ips": 193,
+		"common": 23
 	},
 	{
 		"name": "proxylists",
@@ -690,27 +690,21 @@
 		"common": 31
 	},
 	{
-		"name": "ri_connect_proxies",
-		"category": "anonymizers",
-		"ips": 150,
-		"common": 1
-	},
-	{
 		"name": "ri_connect_proxies_1d",
 		"category": "anonymizers",
-		"ips": 197,
-		"common": 2
+		"ips": 229,
+		"common": 1
 	},
 	{
 		"name": "ri_connect_proxies_30d",
 		"category": "anonymizers",
-		"ips": 2807,
+		"ips": 2810,
 		"common": 23
 	},
 	{
 		"name": "ri_connect_proxies_7d",
 		"category": "anonymizers",
-		"ips": 909,
+		"ips": 963,
 		"common": 8
 	},
 	{
@@ -902,14 +896,8 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 306,
+		"ips": 321,
 		"common": 1
-	},
-	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 285,
-		"common": 5
 	},
 	{
 		"name": "xroxy",
