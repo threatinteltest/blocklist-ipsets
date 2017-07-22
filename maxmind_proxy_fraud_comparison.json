@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12548,
+		"ips": 12460,
 		"common": 45
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 462520,
+		"ips": 462521,
 		"common": 109
 	},
 	{
@@ -225,6 +225,12 @@
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 15872,
+		"common": 1
+	},
+	{
+		"name": "dshield_top_1000",
+		"category": "attacks",
+		"ips": 869,
 		"common": 1
 	},
 	{
@@ -482,7 +488,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 26764,
+		"ips": 26537,
 		"common": 1
 	},
 	{
@@ -704,7 +710,13 @@
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 335,
+		"ips": 348,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 442,
 		"common": 1
 	},
 	{

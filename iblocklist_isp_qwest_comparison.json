@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12548,
+		"ips": 12460,
 		"common": 10
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 462520,
+		"ips": 462521,
 		"common": 111
 	},
 	{
@@ -332,8 +332,8 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 876,
-		"common": 1
+		"ips": 869,
+		"common": 2
 	},
 	{
 		"name": "et_block",
@@ -387,7 +387,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 151863,
-		"common": 70
+		"common": 71
 	},
 	{
 		"name": "firehol_level4",
@@ -620,7 +620,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 26764,
+		"ips": 26537,
 		"common": 6
 	},
 	{
@@ -710,7 +710,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3341,
+		"ips": 3348,
 		"common": 1
 	},
 	{
@@ -722,7 +722,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5687,
+		"ips": 5686,
 		"common": 4
 	},
 	{
@@ -880,6 +880,12 @@
 		"category": "reputation",
 		"ips": 29017,
 		"common": 15
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 448,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

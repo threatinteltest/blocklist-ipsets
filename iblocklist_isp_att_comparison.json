@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12548,
+		"ips": 12460,
 		"common": 18
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 462520,
+		"ips": 462521,
 		"common": 281
 	},
 	{
@@ -358,6 +358,12 @@
 		"category": "malware",
 		"ips": 129891,
 		"common": 90
+	},
+	{
+		"name": "dshield_top_1000",
+		"category": "attacks",
+		"ips": 869,
+		"common": 3
 	},
 	{
 		"name": "esentire_crazyerror_su",
@@ -441,7 +447,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 151863,
-		"common": 1203
+		"common": 1205
 	},
 	{
 		"name": "firehol_level4",
@@ -728,7 +734,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 26764,
+		"ips": 26537,
 		"common": 39
 	},
 	{
@@ -902,7 +908,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3341,
+		"ips": 3348,
 		"common": 10
 	},
 	{
@@ -914,7 +920,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5687,
+		"ips": 5686,
 		"common": 16
 	},
 	{
@@ -1064,14 +1070,26 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 346,
+		"ips": 365,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 335,
+		"ips": 348,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 442,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 448,
+		"common": 2
 	},
 	{
 		"name": "voipbl",
