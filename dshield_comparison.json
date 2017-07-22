@@ -116,7 +116,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12481,
+		"ips": 12474,
 		"common": 1
 	},
 	{
@@ -302,8 +302,8 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 317,
-		"common": 1
+		"ips": 845,
+		"common": 2
 	},
 	{
 		"name": "et_block",
@@ -332,13 +332,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40225,
+		"ips": 40226,
 		"common": 5
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 274695,
+		"ips": 274679,
 		"common": 8
 	},
 	{
@@ -362,13 +362,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 150628,
+		"ips": 151111,
 		"common": 5120
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9313007,
+		"ips": 9313000,
 		"common": 16
 	},
 	{
@@ -380,7 +380,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 33561,
+		"ips": 33562,
 		"common": 3
 	},
 	{
@@ -710,37 +710,37 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 20,
+		"ips": 21,
 		"common": 5
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 180,
+		"ips": 181,
 		"common": 19
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 338,
+		"ips": 339,
 		"common": 9
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 292,
+		"ips": 294,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 40,
+		"ips": 42,
 		"common": 15
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 226,
+		"ips": 221,
 		"common": 8
 	},
 	{
@@ -752,14 +752,20 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 444,
-		"common": 3
+		"ips": 446,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 448,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 162,
-		"common": 11
+		"ips": 160,
+		"common": 10
 	},
 	{
 		"name": "voipbl",
