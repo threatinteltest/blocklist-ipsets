@@ -21,7 +21,7 @@
 		"name": "atlas_attacks_30d",
 		"category": "attacks",
 		"ips": 83,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "atlas_attacks_7d",
@@ -66,15 +66,9 @@
 		"common": 3
 	},
 	{
-		"name": "blocklist_de",
-		"category": "attacks",
-		"ips": 62178,
-		"common": 2
-	},
-	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8810,
+		"ips": 8812,
 		"common": 2
 	},
 	{
@@ -105,7 +99,7 @@
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
 		"ips": 282,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "dataplane_dnsrdany",
@@ -189,12 +183,12 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 71333,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 151271,
+		"ips": 151318,
 		"common": 17
 	},
 	{
@@ -213,7 +207,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 2324,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "haley_ssh",
@@ -237,6 +231,12 @@
 		"name": "iblocklist_cruzit_web_attacks",
 		"category": "attacks",
 		"ips": 7200,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227913608,
 		"common": 1
 	},
 	{
@@ -267,7 +267,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "nullsecure",
@@ -321,31 +321,37 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29017,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 181,
+		"ips": 182,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 340,
+		"ips": 345,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 43,
+		"ips": 44,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 163,
+		"ips": 164,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_vnc",
+		"category": "attacks",
+		"ips": 19,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
