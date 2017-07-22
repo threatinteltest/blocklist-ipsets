@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12547,
+		"ips": 12507,
 		"common": 47
 	},
 	{
@@ -108,39 +108,51 @@
 		"common": 126
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2559,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 32081,
+		"ips": 32036,
 		"common": 16
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 126491,
+		"ips": 126497,
 		"common": 113
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 67537,
+		"ips": 67547,
 		"common": 54
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 37421,
+		"ips": 37375,
 		"common": 19
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 165690,
+		"ips": 165693,
 		"common": 130
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 86204,
+		"ips": 86208,
 		"common": 60
 	},
 	{
@@ -236,19 +248,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40266,
-		"common": 129
+		"ips": 40206,
+		"common": 130
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 274665,
+		"ips": 274681,
 		"common": 185
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40347,
+		"ips": 40346,
 		"common": 455
 	},
 	{
@@ -266,13 +278,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9313078,
+		"ips": 9313029,
 		"common": 158
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27354,
+		"ips": 27353,
 		"common": 455
 	},
 	{
@@ -495,25 +507,25 @@
 		"name": "php_commenters",
 		"category": "spam",
 		"ips": 50,
-		"common": 13
+		"common": 9
 	},
 	{
 		"name": "php_commenters_1d",
 		"category": "spam",
-		"ips": 50,
-		"common": 13
+		"ips": 93,
+		"common": 20
 	},
 	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 967,
-		"common": 103
+		"ips": 959,
+		"common": 105
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
-		"ips": 275,
-		"common": 57
+		"ips": 304,
+		"common": 60
 	},
 	{
 		"name": "php_dictionary_30d",
@@ -694,6 +706,12 @@
 		"category": "reputation",
 		"ips": 29017,
 		"common": 23
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 444,
+		"common": 2
 	},
 	{
 		"name": "voipbl",
